@@ -1,0 +1,70 @@
+ItemID,ItemName,ItemCategory,ItemSubcategory,UnitPrice
+Item0001,Haircut (Women's),Service,Haircut,68.4
+Item0002,Haircut (Men's),Service,Haircut,56.3
+Item0003,Haircut (Children's),Service,Haircut,77.61
+Item0004,Hair Coloring (Full),Service,Coloring,99.67
+Item0005,Hair Coloring (Roots),Service,Coloring,89.33
+Item0006,Highlights,Service,Coloring,144.13
+Item0007,Balayage,Service,Coloring,177.53
+Item0008,Hair Treatment (Deep Conditioning),Service,Treatment,62.92
+Item0009,Hair Treatment (Keratin),Service,Treatment,52.97
+Item0010,Hair Styling (Updo),Service,Styling,68.45
+Item0011,Hair Styling (Blowout),Service,Styling,53.71
+Item0012,Perm,Service,Styling,100.44
+Item0013,Relaxer,Service,Styling,62.16
+Item0014,Hair Extensions (Installation),Service,Styling,44.14
+Item0015,Hair Extensions (Removal),Service,Styling,105.11
+Item0016,Makeup Application,Service,Makeup,91.21
+Item0017,Facial,Service,Facial,91.92
+Item0018,Waxing (Eyebrows),Service,Waxing,37.52
+Item0019,Waxing (Legs),Service,Waxing,57.48
+Item0020,Waxing (Bikini),Service,Waxing,20.61
+Item0021,Shampoo (Volume),Product,Shampoo,18.24
+Item0022,Shampoo (Moisturizing),Product,Shampoo,18.54
+Item0023,Shampoo (Color-Safe),Product,Shampoo,31.89
+Item0024,Shampoo (Clarifying),Product,Shampoo,29.35
+Item0025,Shampoo (Dry),Product,Shampoo,30.01
+Item0026,Conditioner (Volume),Product,Conditioner,25.49
+Item0027,Conditioner (Moisturizing),Product,Conditioner,23.01
+Item0028,Conditioner (Color-Safe),Product,Conditioner,23.5
+Item0029,Conditioner (Leave-In),Product,Conditioner,26.17
+Item0030,Conditioner (Deep),Product,Conditioner,27.38
+Item0031,Hair Mask,Product,Treatment Products,38.28
+Item0032,Hair Serum,Product,Treatment Products,36.34
+Item0033,Hair Spray,Product,Styling Products,18.19
+Item0034,Styling Gel,Product,Styling,38.01
+Item0035,Styling Mousse,Product,Styling,44.21
+Item0036,Styling Cream,Product,Styling,10.89
+Item0037,Styling Wax,Product,Styling,44.53
+Item0038,Dry Shampoo,Product,Shampoo,35.65
+Item0039,Heat Protectant Spray,Product,Styling Products,32.53
+Item0040,Texturizing Spray,Product,Styling Products,17.55
+Item0041,Curl Enhancer,Product,Other,20.43
+Item0042,Frizz Control Serum,Product,Treatment Products,37.61
+Item0043,Makeup Remover,Product,Makeup,13.28
+Item0044,Face Wash,Product,Skincare,16.45
+Item0045,Moisturizer,Product,Skincare,56.73
+Item0046,Sunscreen,Product,Skincare,58.91
+Item0047,Toner,Product,Skincare,29.34
+Item0048,Exfoliating Scrub,Product,Other,48.06
+Item0049,Face Mask (Clay),Product,Treatment Products,48.63
+Item0050,Face Mask (Sheet),Product,Treatment Products,57.81
+Item0051,Eye Cream,Product,Other,14.11
+Item0052,Lip Balm,Product,Other,25.69
+Item0053,Body Wash,Product,Other,43.17
+Item0054,Body Lotion,Product,Other,26.75
+Item0055,Body Scrub,Product,Other,39.12
+Item0056,Hand Cream,Product,Other,10.0
+Item0057,Cuticle Oil,Product,Other,23.55
+Item0058,Nail Polish (Red),Product,Other,31.71
+Item0059,Nail Polish (Nude),Product,Other,30.21
+Item0060,Nail Polish (Glitter),Product,Other,47.75
+Item0061,Top Coat,Product,Other,37.45
+Item0062,Base Coat,Product,Other,25.37
+Item0063,Nail Polish Remover,Product,Other,36.49
+Item0064,Foundation,Product,Other,20.43
+Item0065,Concealer,Product,Other,45.47
+Item0066,Mascara,Product,Other,37.32
+Item0067,Eyeliner,Product,Other,18.18
+Item0068,Eyeshadow,Product,Other,37.77
+Item0069,Lipstick,Product,Other,48.79

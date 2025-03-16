@@ -1,0 +1,501 @@
+CustomerID,CustomerSegment,PreferredCategory
+Cust0001,Occasional,Balayage
+Cust0002,Regular,Hair Styling (Blowout)
+Cust0003,Occasional,Waxing (Bikini)
+Cust0004,Regular,Relaxer
+Cust0005,New,Highlights
+Cust0006,Occasional,Hair Treatment (Keratin)
+Cust0007,Occasional,Hair Styling (Blowout)
+Cust0008,Regular,Facial
+Cust0009,Regular,Makeup Application
+Cust0010,New,Haircut (Women's)
+Cust0011,Regular,Haircut (Children's)
+Cust0012,Occasional,Highlights
+Cust0013,New,Haircut (Women's)
+Cust0014,Occasional,Hair Styling (Updo)
+Cust0015,Occasional,Hair Coloring (Roots)
+Cust0016,Occasional,Hair Styling (Updo)
+Cust0017,Occasional,Highlights
+Cust0018,Occasional,Perm
+Cust0019,Regular,Balayage
+Cust0020,New,Hair Extensions (Installation)
+Cust0021,New,Waxing (Bikini)
+Cust0022,Occasional,Haircut (Women's)
+Cust0023,Regular,Waxing (Legs)
+Cust0024,New,Haircut (Children's)
+Cust0025,Regular,Hair Coloring (Roots)
+Cust0026,Occasional,Hair Treatment (Deep Conditioning)
+Cust0027,New,Hair Extensions (Removal)
+Cust0028,Occasional,Perm
+Cust0029,Regular,Hair Treatment (Deep Conditioning)
+Cust0030,New,Haircut (Women's)
+Cust0031,New,Highlights
+Cust0032,Occasional,Waxing (Eyebrows)
+Cust0033,New,Hair Treatment (Keratin)
+Cust0034,Regular,Waxing (Legs)
+Cust0035,Occasional,Hair Extensions (Removal)
+Cust0036,Regular,Relaxer
+Cust0037,Occasional,Haircut (Men's)
+Cust0038,Regular,Hair Treatment (Deep Conditioning)
+Cust0039,Occasional,Waxing (Bikini)
+Cust0040,Occasional,Relaxer
+Cust0041,Regular,Hair Extensions (Removal)
+Cust0042,Occasional,Haircut (Women's)
+Cust0043,Regular,Hair Coloring (Roots)
+Cust0044,Occasional,Hair Styling (Updo)
+Cust0045,Occasional,Hair Treatment (Deep Conditioning)
+Cust0046,Occasional,Relaxer
+Cust0047,Occasional,Hair Styling (Blowout)
+Cust0048,New,Hair Coloring (Roots)
+Cust0049,Occasional,Hair Styling (Updo)
+Cust0050,New,Haircut (Men's)
+Cust0051,Occasional,Perm
+Cust0052,Regular,Perm
+Cust0053,Occasional,Hair Treatment (Deep Conditioning)
+Cust0054,Occasional,Hair Extensions (Installation)
+Cust0055,Occasional,Hair Treatment (Keratin)
+Cust0056,Occasional,Facial
+Cust0057,Occasional,Haircut (Children's)
+Cust0058,Regular,Waxing (Eyebrows)
+Cust0059,Regular,Hair Extensions (Removal)
+Cust0060,New,Perm
+Cust0061,Occasional,Hair Treatment (Keratin)
+Cust0062,New,Haircut (Women's)
+Cust0063,Regular,Hair Treatment (Deep Conditioning)
+Cust0064,New,Relaxer
+Cust0065,Occasional,Hair Treatment (Keratin)
+Cust0066,Occasional,Facial
+Cust0067,Regular,Waxing (Eyebrows)
+Cust0068,Regular,Hair Coloring (Roots)
+Cust0069,Regular,Hair Coloring (Full)
+Cust0070,Occasional,Perm
+Cust0071,New,Waxing (Legs)
+Cust0072,Regular,Hair Extensions (Removal)
+Cust0073,Regular,Makeup Application
+Cust0074,Occasional,Hair Treatment (Deep Conditioning)
+Cust0075,Occasional,Facial
+Cust0076,New,Perm
+Cust0077,Occasional,Hair Treatment (Keratin)
+Cust0078,Occasional,Relaxer
+Cust0079,Occasional,Hair Extensions (Installation)
+Cust0080,New,Hair Coloring (Roots)
+Cust0081,Regular,Balayage
+Cust0082,Regular,Hair Coloring (Roots)
+Cust0083,New,Hair Treatment (Deep Conditioning)
+Cust0084,Regular,Hair Extensions (Installation)
+Cust0085,Regular,Haircut (Men's)
+Cust0086,Occasional,Relaxer
+Cust0087,Regular,Relaxer
+Cust0088,Occasional,Hair Extensions (Removal)
+Cust0089,Occasional,Waxing (Bikini)
+Cust0090,New,Waxing (Bikini)
+Cust0091,New,Facial
+Cust0092,Regular,Hair Extensions (Installation)
+Cust0093,Regular,Hair Styling (Updo)
+Cust0094,Occasional,Waxing (Legs)
+Cust0095,Occasional,Haircut (Children's)
+Cust0096,New,Hair Coloring (Roots)
+Cust0097,New,Perm
+Cust0098,Regular,Waxing (Legs)
+Cust0099,New,Hair Styling (Updo)
+Cust0100,New,Waxing (Legs)
+Cust0101,Regular,Makeup Application
+Cust0102,Regular,Highlights
+Cust0103,Occasional,Hair Coloring (Roots)
+Cust0104,Occasional,Haircut (Men's)
+Cust0105,Occasional,Hair Treatment (Keratin)
+Cust0106,New,Highlights
+Cust0107,Occasional,Waxing (Bikini)
+Cust0108,Occasional,Facial
+Cust0109,New,Relaxer
+Cust0110,Regular,Highlights
+Cust0111,Occasional,Highlights
+Cust0112,Occasional,Hair Extensions (Installation)
+Cust0113,Occasional,Waxing (Legs)
+Cust0114,Regular,Waxing (Bikini)
+Cust0115,Occasional,Hair Coloring (Roots)
+Cust0116,New,Haircut (Women's)
+Cust0117,Regular,Relaxer
+Cust0118,Regular,Hair Extensions (Installation)
+Cust0119,Regular,Relaxer
+Cust0120,Occasional,Haircut (Children's)
+Cust0121,New,Hair Extensions (Removal)
+Cust0122,Regular,Waxing (Legs)
+Cust0123,Occasional,Waxing (Legs)
+Cust0124,Occasional,Hair Extensions (Installation)
+Cust0125,Regular,Highlights
+Cust0126,Regular,Balayage
+Cust0127,Occasional,Perm
+Cust0128,Occasional,Relaxer
+Cust0129,Occasional,Waxing (Bikini)
+Cust0130,New,Waxing (Legs)
+Cust0131,Regular,Waxing (Bikini)
+Cust0132,Regular,Hair Coloring (Roots)
+Cust0133,Occasional,Waxing (Legs)
+Cust0134,Occasional,Waxing (Bikini)
+Cust0135,Occasional,Waxing (Eyebrows)
+Cust0136,Occasional,Hair Treatment (Deep Conditioning)
+Cust0137,Occasional,Balayage
+Cust0138,Occasional,Hair Styling (Blowout)
+Cust0139,Regular,Waxing (Eyebrows)
+Cust0140,Occasional,Makeup Application
+Cust0141,Regular,Relaxer
+Cust0142,Regular,Waxing (Eyebrows)
+Cust0143,Occasional,Facial
+Cust0144,New,Hair Extensions (Removal)
+Cust0145,Regular,Makeup Application
+Cust0146,Regular,Hair Extensions (Removal)
+Cust0147,Regular,Waxing (Bikini)
+Cust0148,New,Highlights
+Cust0149,Regular,Perm
+Cust0150,New,Hair Extensions (Installation)
+Cust0151,Occasional,Haircut (Women's)
+Cust0152,Regular,Hair Styling (Updo)
+Cust0153,Regular,Hair Coloring (Full)
+Cust0154,Regular,Hair Treatment (Deep Conditioning)
+Cust0155,Regular,Hair Treatment (Keratin)
+Cust0156,New,Facial
+Cust0157,Occasional,Highlights
+Cust0158,Occasional,Haircut (Men's)
+Cust0159,Occasional,Facial
+Cust0160,Regular,Hair Treatment (Keratin)
+Cust0161,Occasional,Waxing (Bikini)
+Cust0162,New,Hair Treatment (Deep Conditioning)
+Cust0163,New,Hair Coloring (Full)
+Cust0164,Regular,Hair Styling (Blowout)
+Cust0165,Occasional,Balayage
+Cust0166,Regular,Waxing (Bikini)
+Cust0167,Occasional,Facial
+Cust0168,Regular,Balayage
+Cust0169,New,Waxing (Bikini)
+Cust0170,Regular,Haircut (Children's)
+Cust0171,Occasional,Hair Coloring (Roots)
+Cust0172,Regular,Hair Coloring (Roots)
+Cust0173,Regular,Relaxer
+Cust0174,Occasional,Haircut (Women's)
+Cust0175,Regular,Haircut (Women's)
+Cust0176,Occasional,Haircut (Women's)
+Cust0177,Occasional,Haircut (Children's)
+Cust0178,Occasional,Hair Styling (Updo)
+Cust0179,Regular,Hair Styling (Updo)
+Cust0180,Occasional,Haircut (Men's)
+Cust0181,Regular,Hair Extensions (Removal)
+Cust0182,Occasional,Relaxer
+Cust0183,Regular,Hair Coloring (Roots)
+Cust0184,Regular,Waxing (Bikini)
+Cust0185,Regular,Haircut (Children's)
+Cust0186,New,Hair Styling (Updo)
+Cust0187,New,Hair Treatment (Deep Conditioning)
+Cust0188,Regular,Haircut (Men's)
+Cust0189,Occasional,Hair Styling (Updo)
+Cust0190,Occasional,Waxing (Legs)
+Cust0191,Occasional,Haircut (Children's)
+Cust0192,Regular,Balayage
+Cust0193,Regular,Hair Styling (Updo)
+Cust0194,New,Hair Coloring (Full)
+Cust0195,Regular,Haircut (Women's)
+Cust0196,Occasional,Balayage
+Cust0197,New,Facial
+Cust0198,New,Waxing (Legs)
+Cust0199,Regular,Makeup Application
+Cust0200,Occasional,Hair Styling (Blowout)
+Cust0201,New,Hair Coloring (Roots)
+Cust0202,New,Waxing (Eyebrows)
+Cust0203,New,Makeup Application
+Cust0204,Occasional,Hair Coloring (Roots)
+Cust0205,Occasional,Haircut (Men's)
+Cust0206,New,Waxing (Legs)
+Cust0207,Occasional,Waxing (Bikini)
+Cust0208,Regular,Waxing (Eyebrows)
+Cust0209,Occasional,Hair Extensions (Installation)
+Cust0210,New,Hair Styling (Blowout)
+Cust0211,Regular,Relaxer
+Cust0212,New,Hair Styling (Updo)
+Cust0213,Occasional,Highlights
+Cust0214,Occasional,Hair Coloring (Roots)
+Cust0215,Regular,Hair Styling (Updo)
+Cust0216,Occasional,Haircut (Women's)
+Cust0217,Regular,Hair Styling (Blowout)
+Cust0218,Regular,Waxing (Bikini)
+Cust0219,Occasional,Hair Coloring (Roots)
+Cust0220,Occasional,Haircut (Men's)
+Cust0221,Regular,Facial
+Cust0222,Occasional,Highlights
+Cust0223,New,Hair Treatment (Deep Conditioning)
+Cust0224,Occasional,Hair Styling (Blowout)
+Cust0225,Regular,Hair Treatment (Deep Conditioning)
+Cust0226,Occasional,Haircut (Women's)
+Cust0227,Regular,Waxing (Legs)
+Cust0228,Occasional,Makeup Application
+Cust0229,Occasional,Hair Extensions (Installation)
+Cust0230,New,Hair Extensions (Installation)
+Cust0231,Occasional,Waxing (Bikini)
+Cust0232,Occasional,Hair Coloring (Full)
+Cust0233,New,Waxing (Bikini)
+Cust0234,New,Hair Treatment (Keratin)
+Cust0235,Occasional,Waxing (Eyebrows)
+Cust0236,Occasional,Waxing (Bikini)
+Cust0237,New,Relaxer
+Cust0238,Regular,Hair Coloring (Roots)
+Cust0239,Regular,Waxing (Legs)
+Cust0240,Regular,Waxing (Eyebrows)
+Cust0241,Regular,Haircut (Men's)
+Cust0242,Regular,Perm
+Cust0243,Regular,Relaxer
+Cust0244,Regular,Waxing (Eyebrows)
+Cust0245,Regular,Hair Coloring (Roots)
+Cust0246,Regular,Haircut (Women's)
+Cust0247,Regular,Haircut (Children's)
+Cust0248,Occasional,Makeup Application
+Cust0249,Regular,Perm
+Cust0250,Occasional,Hair Treatment (Deep Conditioning)
+Cust0251,Regular,Haircut (Women's)
+Cust0252,Occasional,Hair Extensions (Removal)
+Cust0253,New,Waxing (Bikini)
+Cust0254,Occasional,Hair Extensions (Installation)
+Cust0255,Occasional,Hair Extensions (Installation)
+Cust0256,Occasional,Hair Coloring (Full)
+Cust0257,Regular,Facial
+Cust0258,Regular,Hair Extensions (Installation)
+Cust0259,Regular,Waxing (Legs)
+Cust0260,Regular,Hair Styling (Blowout)
+Cust0261,New,Makeup Application
+Cust0262,Occasional,Hair Coloring (Roots)
+Cust0263,Regular,Hair Styling (Updo)
+Cust0264,Occasional,Haircut (Women's)
+Cust0265,Occasional,Hair Styling (Updo)
+Cust0266,Regular,Hair Treatment (Deep Conditioning)
+Cust0267,Occasional,Hair Styling (Updo)
+Cust0268,Regular,Makeup Application
+Cust0269,Occasional,Hair Treatment (Keratin)
+Cust0270,New,Hair Coloring (Full)
+Cust0271,Regular,Highlights
+Cust0272,Regular,Hair Styling (Blowout)
+Cust0273,Regular,Hair Treatment (Deep Conditioning)
+Cust0274,New,Haircut (Children's)
+Cust0275,Occasional,Balayage
+Cust0276,Occasional,Makeup Application
+Cust0277,Regular,Waxing (Bikini)
+Cust0278,Regular,Hair Styling (Blowout)
+Cust0279,New,Relaxer
+Cust0280,Regular,Hair Coloring (Full)
+Cust0281,Regular,Haircut (Women's)
+Cust0282,Regular,Haircut (Men's)
+Cust0283,Regular,Makeup Application
+Cust0284,Regular,Makeup Application
+Cust0285,Occasional,Makeup Application
+Cust0286,Occasional,Balayage
+Cust0287,Occasional,Highlights
+Cust0288,Occasional,Haircut (Children's)
+Cust0289,Occasional,Makeup Application
+Cust0290,Occasional,Perm
+Cust0291,New,Haircut (Men's)
+Cust0292,Regular,Hair Treatment (Deep Conditioning)
+Cust0293,Regular,Hair Extensions (Installation)
+Cust0294,Occasional,Haircut (Children's)
+Cust0295,Occasional,Waxing (Legs)
+Cust0296,Regular,Highlights
+Cust0297,New,Haircut (Men's)
+Cust0298,Occasional,Hair Coloring (Roots)
+Cust0299,Regular,Hair Styling (Blowout)
+Cust0300,Regular,Waxing (Bikini)
+Cust0301,Occasional,Waxing (Legs)
+Cust0302,Occasional,Waxing (Bikini)
+Cust0303,New,Haircut (Children's)
+Cust0304,Regular,Waxing (Legs)
+Cust0305,Occasional,Balayage
+Cust0306,New,Facial
+Cust0307,Occasional,Makeup Application
+Cust0308,New,Balayage
+Cust0309,Regular,Balayage
+Cust0310,Occasional,Hair Extensions (Removal)
+Cust0311,Regular,Haircut (Men's)
+Cust0312,Occasional,Balayage
+Cust0313,Regular,Hair Styling (Updo)
+Cust0314,New,Highlights
+Cust0315,Occasional,Hair Styling (Updo)
+Cust0316,Occasional,Hair Styling (Updo)
+Cust0317,Regular,Hair Treatment (Keratin)
+Cust0318,Occasional,Hair Extensions (Removal)
+Cust0319,Occasional,Hair Styling (Updo)
+Cust0320,Occasional,Waxing (Eyebrows)
+Cust0321,Regular,Waxing (Bikini)
+Cust0322,Occasional,Haircut (Women's)
+Cust0323,Occasional,Hair Treatment (Keratin)
+Cust0324,New,Makeup Application
+Cust0325,Regular,Hair Extensions (Installation)
+Cust0326,New,Haircut (Women's)
+Cust0327,Occasional,Hair Extensions (Removal)
+Cust0328,Occasional,Waxing (Eyebrows)
+Cust0329,Regular,Hair Extensions (Installation)
+Cust0330,Regular,Hair Coloring (Roots)
+Cust0331,Occasional,Hair Treatment (Deep Conditioning)
+Cust0332,Occasional,Hair Styling (Blowout)
+Cust0333,Occasional,Haircut (Children's)
+Cust0334,Occasional,Haircut (Women's)
+Cust0335,Regular,Makeup Application
+Cust0336,New,Hair Extensions (Installation)
+Cust0337,Occasional,Hair Styling (Blowout)
+Cust0338,New,Haircut (Children's)
+Cust0339,Occasional,Waxing (Bikini)
+Cust0340,Occasional,Haircut (Children's)
+Cust0341,Occasional,Makeup Application
+Cust0342,Regular,Haircut (Men's)
+Cust0343,Regular,Waxing (Eyebrows)
+Cust0344,Regular,Perm
+Cust0345,Regular,Haircut (Children's)
+Cust0346,Regular,Makeup Application
+Cust0347,Regular,Hair Treatment (Deep Conditioning)
+Cust0348,Occasional,Highlights
+Cust0349,Occasional,Waxing (Eyebrows)
+Cust0350,Regular,Waxing (Legs)
+Cust0351,Occasional,Perm
+Cust0352,Regular,Haircut (Children's)
+Cust0353,Regular,Hair Treatment (Keratin)
+Cust0354,Occasional,Perm
+Cust0355,Regular,Relaxer
+Cust0356,Occasional,Balayage
+Cust0357,Occasional,Hair Treatment (Keratin)
+Cust0358,Occasional,Haircut (Men's)
+Cust0359,Occasional,Waxing (Bikini)
+Cust0360,New,Haircut (Children's)
+Cust0361,New,Waxing (Eyebrows)
+Cust0362,Regular,Perm
+Cust0363,Occasional,Facial
+Cust0364,Occasional,Haircut (Women's)
+Cust0365,Regular,Perm
+Cust0366,New,Perm
+Cust0367,Occasional,Waxing (Eyebrows)
+Cust0368,Occasional,Haircut (Children's)
+Cust0369,New,Hair Coloring (Full)
+Cust0370,New,Hair Styling (Blowout)
+Cust0371,Occasional,Hair Extensions (Removal)
+Cust0372,Occasional,Hair Treatment (Keratin)
+Cust0373,Occasional,Hair Treatment (Keratin)
+Cust0374,Occasional,Waxing (Bikini)
+Cust0375,Occasional,Relaxer
+Cust0376,New,Perm
+Cust0377,New,Hair Treatment (Deep Conditioning)
+Cust0378,Occasional,Waxing (Bikini)
+Cust0379,Occasional,Hair Coloring (Full)
+Cust0380,Regular,Relaxer
+Cust0381,Occasional,Haircut (Men's)
+Cust0382,Occasional,Makeup Application
+Cust0383,Regular,Makeup Application
+Cust0384,Regular,Haircut (Women's)
+Cust0385,Occasional,Haircut (Men's)
+Cust0386,New,Hair Styling (Updo)
+Cust0387,New,Haircut (Women's)
+Cust0388,Occasional,Waxing (Legs)
+Cust0389,Occasional,Hair Treatment (Deep Conditioning)
+Cust0390,Regular,Haircut (Women's)
+Cust0391,Occasional,Hair Styling (Updo)
+Cust0392,Regular,Hair Styling (Blowout)
+Cust0393,Occasional,Hair Styling (Updo)
+Cust0394,Regular,Hair Coloring (Full)
+Cust0395,Regular,Waxing (Eyebrows)
+Cust0396,Occasional,Hair Treatment (Keratin)
+Cust0397,Regular,Haircut (Women's)
+Cust0398,Occasional,Hair Treatment (Deep Conditioning)
+Cust0399,Regular,Waxing (Bikini)
+Cust0400,New,Waxing (Eyebrows)
+Cust0401,Occasional,Hair Coloring (Roots)
+Cust0402,Occasional,Highlights
+Cust0403,Regular,Haircut (Children's)
+Cust0404,New,Waxing (Eyebrows)
+Cust0405,Regular,Haircut (Women's)
+Cust0406,Regular,Balayage
+Cust0407,Occasional,Waxing (Legs)
+Cust0408,Occasional,Relaxer
+Cust0409,Occasional,Relaxer
+Cust0410,New,Highlights
+Cust0411,New,Haircut (Men's)
+Cust0412,Occasional,Hair Treatment (Deep Conditioning)
+Cust0413,Regular,Facial
+Cust0414,Regular,Perm
+Cust0415,Occasional,Waxing (Eyebrows)
+Cust0416,Occasional,Waxing (Eyebrows)
+Cust0417,Regular,Relaxer
+Cust0418,New,Hair Treatment (Keratin)
+Cust0419,Occasional,Haircut (Women's)
+Cust0420,Occasional,Hair Extensions (Removal)
+Cust0421,Occasional,Waxing (Eyebrows)
+Cust0422,Regular,Waxing (Eyebrows)
+Cust0423,Regular,Haircut (Women's)
+Cust0424,New,Hair Coloring (Roots)
+Cust0425,Occasional,Relaxer
+Cust0426,Regular,Hair Styling (Blowout)
+Cust0427,Occasional,Highlights
+Cust0428,Occasional,Waxing (Bikini)
+Cust0429,Occasional,Hair Styling (Blowout)
+Cust0430,Regular,Haircut (Children's)
+Cust0431,Occasional,Relaxer
+Cust0432,Occasional,Hair Styling (Updo)
+Cust0433,Occasional,Hair Extensions (Installation)
+Cust0434,Regular,Waxing (Bikini)
+Cust0435,New,Balayage
+Cust0436,Occasional,Balayage
+Cust0437,Occasional,Hair Treatment (Deep Conditioning)
+Cust0438,New,Hair Styling (Blowout)
+Cust0439,Regular,Hair Extensions (Installation)
+Cust0440,Occasional,Hair Coloring (Roots)
+Cust0441,New,Balayage
+Cust0442,Regular,Haircut (Men's)
+Cust0443,Regular,Balayage
+Cust0444,Occasional,Waxing (Bikini)
+Cust0445,Regular,Hair Extensions (Removal)
+Cust0446,Occasional,Hair Styling (Updo)
+Cust0447,Regular,Hair Treatment (Keratin)
+Cust0448,Occasional,Haircut (Women's)
+Cust0449,Regular,Facial
+Cust0450,Occasional,Facial
+Cust0451,Regular,Haircut (Men's)
+Cust0452,Regular,Hair Extensions (Installation)
+Cust0453,Occasional,Makeup Application
+Cust0454,Occasional,Haircut (Men's)
+Cust0455,New,Facial
+Cust0456,Occasional,Waxing (Bikini)
+Cust0457,Occasional,Waxing (Eyebrows)
+Cust0458,Occasional,Makeup Application
+Cust0459,Regular,Haircut (Men's)
+Cust0460,Occasional,Waxing (Bikini)
+Cust0461,Regular,Highlights
+Cust0462,Occasional,Haircut (Men's)
+Cust0463,Occasional,Hair Coloring (Full)
+Cust0464,Occasional,Waxing (Bikini)
+Cust0465,New,Waxing (Bikini)
+Cust0466,Occasional,Haircut (Children's)
+Cust0467,New,Waxing (Eyebrows)
+Cust0468,New,Hair Styling (Updo)
+Cust0469,Regular,Hair Treatment (Deep Conditioning)
+Cust0470,Regular,Haircut (Children's)
+Cust0471,Occasional,Haircut (Children's)
+Cust0472,New,Balayage
+Cust0473,Occasional,Hair Coloring (Roots)
+Cust0474,Occasional,Relaxer
+Cust0475,Occasional,Relaxer
+Cust0476,New,Hair Coloring (Full)
+Cust0477,Occasional,Hair Coloring (Full)
+Cust0478,New,Hair Styling (Blowout)
+Cust0479,Regular,Waxing (Eyebrows)
+Cust0480,Regular,Hair Treatment (Keratin)
+Cust0481,Occasional,Waxing (Eyebrows)
+Cust0482,Occasional,Hair Styling (Blowout)
+Cust0483,Occasional,Waxing (Eyebrows)
+Cust0484,Occasional,Haircut (Men's)
+Cust0485,New,Hair Styling (Blowout)
+Cust0486,Regular,Highlights
+Cust0487,Occasional,Relaxer
+Cust0488,Occasional,Hair Treatment (Deep Conditioning)
+Cust0489,Occasional,Highlights
+Cust0490,Occasional,Hair Coloring (Full)
+Cust0491,Occasional,Hair Coloring (Full)
+Cust0492,Occasional,Waxing (Bikini)
+Cust0493,Occasional,Relaxer
+Cust0494,Regular,Haircut (Men's)
+Cust0495,Regular,Hair Styling (Updo)
+Cust0496,Regular,Hair Extensions (Removal)
+Cust0497,Occasional,Highlights
+Cust0498,Regular,Hair Coloring (Roots)
+Cust0499,New,Haircut (Women's)
+Cust0500,Regular,Hair Styling (Blowout)
