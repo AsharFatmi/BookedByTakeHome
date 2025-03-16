@@ -1,501 +1,501 @@
-CustomerID,CustomerSegment,PreferredCategory
-Cust0001,Occasional,Balayage
-Cust0002,Regular,Hair Styling (Blowout)
-Cust0003,Occasional,Waxing (Bikini)
-Cust0004,Regular,Relaxer
-Cust0005,New,Highlights
-Cust0006,Occasional,Hair Treatment (Keratin)
-Cust0007,Occasional,Hair Styling (Blowout)
-Cust0008,Regular,Facial
-Cust0009,Regular,Makeup Application
-Cust0010,New,Haircut (Women's)
-Cust0011,Regular,Haircut (Children's)
-Cust0012,Occasional,Highlights
-Cust0013,New,Haircut (Women's)
-Cust0014,Occasional,Hair Styling (Updo)
-Cust0015,Occasional,Hair Coloring (Roots)
-Cust0016,Occasional,Hair Styling (Updo)
-Cust0017,Occasional,Highlights
-Cust0018,Occasional,Perm
-Cust0019,Regular,Balayage
-Cust0020,New,Hair Extensions (Installation)
-Cust0021,New,Waxing (Bikini)
-Cust0022,Occasional,Haircut (Women's)
-Cust0023,Regular,Waxing (Legs)
-Cust0024,New,Haircut (Children's)
-Cust0025,Regular,Hair Coloring (Roots)
-Cust0026,Occasional,Hair Treatment (Deep Conditioning)
-Cust0027,New,Hair Extensions (Removal)
-Cust0028,Occasional,Perm
-Cust0029,Regular,Hair Treatment (Deep Conditioning)
-Cust0030,New,Haircut (Women's)
-Cust0031,New,Highlights
-Cust0032,Occasional,Waxing (Eyebrows)
-Cust0033,New,Hair Treatment (Keratin)
-Cust0034,Regular,Waxing (Legs)
-Cust0035,Occasional,Hair Extensions (Removal)
-Cust0036,Regular,Relaxer
-Cust0037,Occasional,Haircut (Men's)
-Cust0038,Regular,Hair Treatment (Deep Conditioning)
-Cust0039,Occasional,Waxing (Bikini)
-Cust0040,Occasional,Relaxer
-Cust0041,Regular,Hair Extensions (Removal)
-Cust0042,Occasional,Haircut (Women's)
-Cust0043,Regular,Hair Coloring (Roots)
-Cust0044,Occasional,Hair Styling (Updo)
-Cust0045,Occasional,Hair Treatment (Deep Conditioning)
-Cust0046,Occasional,Relaxer
-Cust0047,Occasional,Hair Styling (Blowout)
-Cust0048,New,Hair Coloring (Roots)
-Cust0049,Occasional,Hair Styling (Updo)
-Cust0050,New,Haircut (Men's)
-Cust0051,Occasional,Perm
-Cust0052,Regular,Perm
-Cust0053,Occasional,Hair Treatment (Deep Conditioning)
-Cust0054,Occasional,Hair Extensions (Installation)
-Cust0055,Occasional,Hair Treatment (Keratin)
-Cust0056,Occasional,Facial
-Cust0057,Occasional,Haircut (Children's)
-Cust0058,Regular,Waxing (Eyebrows)
-Cust0059,Regular,Hair Extensions (Removal)
-Cust0060,New,Perm
-Cust0061,Occasional,Hair Treatment (Keratin)
-Cust0062,New,Haircut (Women's)
-Cust0063,Regular,Hair Treatment (Deep Conditioning)
-Cust0064,New,Relaxer
-Cust0065,Occasional,Hair Treatment (Keratin)
-Cust0066,Occasional,Facial
-Cust0067,Regular,Waxing (Eyebrows)
-Cust0068,Regular,Hair Coloring (Roots)
-Cust0069,Regular,Hair Coloring (Full)
-Cust0070,Occasional,Perm
-Cust0071,New,Waxing (Legs)
-Cust0072,Regular,Hair Extensions (Removal)
-Cust0073,Regular,Makeup Application
-Cust0074,Occasional,Hair Treatment (Deep Conditioning)
-Cust0075,Occasional,Facial
-Cust0076,New,Perm
-Cust0077,Occasional,Hair Treatment (Keratin)
-Cust0078,Occasional,Relaxer
-Cust0079,Occasional,Hair Extensions (Installation)
-Cust0080,New,Hair Coloring (Roots)
-Cust0081,Regular,Balayage
-Cust0082,Regular,Hair Coloring (Roots)
-Cust0083,New,Hair Treatment (Deep Conditioning)
-Cust0084,Regular,Hair Extensions (Installation)
-Cust0085,Regular,Haircut (Men's)
-Cust0086,Occasional,Relaxer
-Cust0087,Regular,Relaxer
-Cust0088,Occasional,Hair Extensions (Removal)
-Cust0089,Occasional,Waxing (Bikini)
-Cust0090,New,Waxing (Bikini)
-Cust0091,New,Facial
-Cust0092,Regular,Hair Extensions (Installation)
-Cust0093,Regular,Hair Styling (Updo)
-Cust0094,Occasional,Waxing (Legs)
-Cust0095,Occasional,Haircut (Children's)
-Cust0096,New,Hair Coloring (Roots)
-Cust0097,New,Perm
-Cust0098,Regular,Waxing (Legs)
-Cust0099,New,Hair Styling (Updo)
-Cust0100,New,Waxing (Legs)
-Cust0101,Regular,Makeup Application
-Cust0102,Regular,Highlights
-Cust0103,Occasional,Hair Coloring (Roots)
-Cust0104,Occasional,Haircut (Men's)
-Cust0105,Occasional,Hair Treatment (Keratin)
-Cust0106,New,Highlights
-Cust0107,Occasional,Waxing (Bikini)
-Cust0108,Occasional,Facial
-Cust0109,New,Relaxer
-Cust0110,Regular,Highlights
-Cust0111,Occasional,Highlights
-Cust0112,Occasional,Hair Extensions (Installation)
-Cust0113,Occasional,Waxing (Legs)
-Cust0114,Regular,Waxing (Bikini)
-Cust0115,Occasional,Hair Coloring (Roots)
-Cust0116,New,Haircut (Women's)
-Cust0117,Regular,Relaxer
-Cust0118,Regular,Hair Extensions (Installation)
-Cust0119,Regular,Relaxer
-Cust0120,Occasional,Haircut (Children's)
-Cust0121,New,Hair Extensions (Removal)
-Cust0122,Regular,Waxing (Legs)
-Cust0123,Occasional,Waxing (Legs)
-Cust0124,Occasional,Hair Extensions (Installation)
-Cust0125,Regular,Highlights
-Cust0126,Regular,Balayage
-Cust0127,Occasional,Perm
-Cust0128,Occasional,Relaxer
-Cust0129,Occasional,Waxing (Bikini)
-Cust0130,New,Waxing (Legs)
-Cust0131,Regular,Waxing (Bikini)
-Cust0132,Regular,Hair Coloring (Roots)
-Cust0133,Occasional,Waxing (Legs)
-Cust0134,Occasional,Waxing (Bikini)
-Cust0135,Occasional,Waxing (Eyebrows)
-Cust0136,Occasional,Hair Treatment (Deep Conditioning)
-Cust0137,Occasional,Balayage
-Cust0138,Occasional,Hair Styling (Blowout)
-Cust0139,Regular,Waxing (Eyebrows)
-Cust0140,Occasional,Makeup Application
-Cust0141,Regular,Relaxer
-Cust0142,Regular,Waxing (Eyebrows)
-Cust0143,Occasional,Facial
-Cust0144,New,Hair Extensions (Removal)
-Cust0145,Regular,Makeup Application
-Cust0146,Regular,Hair Extensions (Removal)
-Cust0147,Regular,Waxing (Bikini)
-Cust0148,New,Highlights
-Cust0149,Regular,Perm
-Cust0150,New,Hair Extensions (Installation)
-Cust0151,Occasional,Haircut (Women's)
-Cust0152,Regular,Hair Styling (Updo)
-Cust0153,Regular,Hair Coloring (Full)
-Cust0154,Regular,Hair Treatment (Deep Conditioning)
-Cust0155,Regular,Hair Treatment (Keratin)
-Cust0156,New,Facial
-Cust0157,Occasional,Highlights
-Cust0158,Occasional,Haircut (Men's)
-Cust0159,Occasional,Facial
-Cust0160,Regular,Hair Treatment (Keratin)
-Cust0161,Occasional,Waxing (Bikini)
-Cust0162,New,Hair Treatment (Deep Conditioning)
-Cust0163,New,Hair Coloring (Full)
-Cust0164,Regular,Hair Styling (Blowout)
-Cust0165,Occasional,Balayage
-Cust0166,Regular,Waxing (Bikini)
-Cust0167,Occasional,Facial
-Cust0168,Regular,Balayage
-Cust0169,New,Waxing (Bikini)
-Cust0170,Regular,Haircut (Children's)
-Cust0171,Occasional,Hair Coloring (Roots)
-Cust0172,Regular,Hair Coloring (Roots)
-Cust0173,Regular,Relaxer
-Cust0174,Occasional,Haircut (Women's)
-Cust0175,Regular,Haircut (Women's)
-Cust0176,Occasional,Haircut (Women's)
-Cust0177,Occasional,Haircut (Children's)
-Cust0178,Occasional,Hair Styling (Updo)
-Cust0179,Regular,Hair Styling (Updo)
-Cust0180,Occasional,Haircut (Men's)
-Cust0181,Regular,Hair Extensions (Removal)
-Cust0182,Occasional,Relaxer
-Cust0183,Regular,Hair Coloring (Roots)
-Cust0184,Regular,Waxing (Bikini)
-Cust0185,Regular,Haircut (Children's)
-Cust0186,New,Hair Styling (Updo)
-Cust0187,New,Hair Treatment (Deep Conditioning)
-Cust0188,Regular,Haircut (Men's)
-Cust0189,Occasional,Hair Styling (Updo)
-Cust0190,Occasional,Waxing (Legs)
-Cust0191,Occasional,Haircut (Children's)
-Cust0192,Regular,Balayage
-Cust0193,Regular,Hair Styling (Updo)
-Cust0194,New,Hair Coloring (Full)
-Cust0195,Regular,Haircut (Women's)
-Cust0196,Occasional,Balayage
-Cust0197,New,Facial
-Cust0198,New,Waxing (Legs)
-Cust0199,Regular,Makeup Application
-Cust0200,Occasional,Hair Styling (Blowout)
-Cust0201,New,Hair Coloring (Roots)
-Cust0202,New,Waxing (Eyebrows)
-Cust0203,New,Makeup Application
-Cust0204,Occasional,Hair Coloring (Roots)
-Cust0205,Occasional,Haircut (Men's)
-Cust0206,New,Waxing (Legs)
-Cust0207,Occasional,Waxing (Bikini)
-Cust0208,Regular,Waxing (Eyebrows)
-Cust0209,Occasional,Hair Extensions (Installation)
-Cust0210,New,Hair Styling (Blowout)
-Cust0211,Regular,Relaxer
-Cust0212,New,Hair Styling (Updo)
-Cust0213,Occasional,Highlights
-Cust0214,Occasional,Hair Coloring (Roots)
-Cust0215,Regular,Hair Styling (Updo)
-Cust0216,Occasional,Haircut (Women's)
-Cust0217,Regular,Hair Styling (Blowout)
-Cust0218,Regular,Waxing (Bikini)
-Cust0219,Occasional,Hair Coloring (Roots)
-Cust0220,Occasional,Haircut (Men's)
-Cust0221,Regular,Facial
-Cust0222,Occasional,Highlights
-Cust0223,New,Hair Treatment (Deep Conditioning)
-Cust0224,Occasional,Hair Styling (Blowout)
-Cust0225,Regular,Hair Treatment (Deep Conditioning)
-Cust0226,Occasional,Haircut (Women's)
-Cust0227,Regular,Waxing (Legs)
-Cust0228,Occasional,Makeup Application
-Cust0229,Occasional,Hair Extensions (Installation)
-Cust0230,New,Hair Extensions (Installation)
-Cust0231,Occasional,Waxing (Bikini)
-Cust0232,Occasional,Hair Coloring (Full)
-Cust0233,New,Waxing (Bikini)
-Cust0234,New,Hair Treatment (Keratin)
-Cust0235,Occasional,Waxing (Eyebrows)
-Cust0236,Occasional,Waxing (Bikini)
-Cust0237,New,Relaxer
-Cust0238,Regular,Hair Coloring (Roots)
-Cust0239,Regular,Waxing (Legs)
-Cust0240,Regular,Waxing (Eyebrows)
-Cust0241,Regular,Haircut (Men's)
-Cust0242,Regular,Perm
-Cust0243,Regular,Relaxer
-Cust0244,Regular,Waxing (Eyebrows)
-Cust0245,Regular,Hair Coloring (Roots)
-Cust0246,Regular,Haircut (Women's)
-Cust0247,Regular,Haircut (Children's)
-Cust0248,Occasional,Makeup Application
-Cust0249,Regular,Perm
-Cust0250,Occasional,Hair Treatment (Deep Conditioning)
-Cust0251,Regular,Haircut (Women's)
-Cust0252,Occasional,Hair Extensions (Removal)
-Cust0253,New,Waxing (Bikini)
-Cust0254,Occasional,Hair Extensions (Installation)
-Cust0255,Occasional,Hair Extensions (Installation)
-Cust0256,Occasional,Hair Coloring (Full)
-Cust0257,Regular,Facial
-Cust0258,Regular,Hair Extensions (Installation)
-Cust0259,Regular,Waxing (Legs)
-Cust0260,Regular,Hair Styling (Blowout)
-Cust0261,New,Makeup Application
-Cust0262,Occasional,Hair Coloring (Roots)
-Cust0263,Regular,Hair Styling (Updo)
-Cust0264,Occasional,Haircut (Women's)
-Cust0265,Occasional,Hair Styling (Updo)
-Cust0266,Regular,Hair Treatment (Deep Conditioning)
-Cust0267,Occasional,Hair Styling (Updo)
-Cust0268,Regular,Makeup Application
-Cust0269,Occasional,Hair Treatment (Keratin)
-Cust0270,New,Hair Coloring (Full)
-Cust0271,Regular,Highlights
-Cust0272,Regular,Hair Styling (Blowout)
-Cust0273,Regular,Hair Treatment (Deep Conditioning)
-Cust0274,New,Haircut (Children's)
-Cust0275,Occasional,Balayage
-Cust0276,Occasional,Makeup Application
-Cust0277,Regular,Waxing (Bikini)
-Cust0278,Regular,Hair Styling (Blowout)
-Cust0279,New,Relaxer
-Cust0280,Regular,Hair Coloring (Full)
-Cust0281,Regular,Haircut (Women's)
-Cust0282,Regular,Haircut (Men's)
-Cust0283,Regular,Makeup Application
-Cust0284,Regular,Makeup Application
-Cust0285,Occasional,Makeup Application
-Cust0286,Occasional,Balayage
-Cust0287,Occasional,Highlights
-Cust0288,Occasional,Haircut (Children's)
-Cust0289,Occasional,Makeup Application
-Cust0290,Occasional,Perm
-Cust0291,New,Haircut (Men's)
-Cust0292,Regular,Hair Treatment (Deep Conditioning)
-Cust0293,Regular,Hair Extensions (Installation)
-Cust0294,Occasional,Haircut (Children's)
-Cust0295,Occasional,Waxing (Legs)
-Cust0296,Regular,Highlights
-Cust0297,New,Haircut (Men's)
-Cust0298,Occasional,Hair Coloring (Roots)
-Cust0299,Regular,Hair Styling (Blowout)
-Cust0300,Regular,Waxing (Bikini)
-Cust0301,Occasional,Waxing (Legs)
-Cust0302,Occasional,Waxing (Bikini)
-Cust0303,New,Haircut (Children's)
-Cust0304,Regular,Waxing (Legs)
-Cust0305,Occasional,Balayage
-Cust0306,New,Facial
-Cust0307,Occasional,Makeup Application
-Cust0308,New,Balayage
-Cust0309,Regular,Balayage
-Cust0310,Occasional,Hair Extensions (Removal)
-Cust0311,Regular,Haircut (Men's)
-Cust0312,Occasional,Balayage
-Cust0313,Regular,Hair Styling (Updo)
-Cust0314,New,Highlights
-Cust0315,Occasional,Hair Styling (Updo)
-Cust0316,Occasional,Hair Styling (Updo)
-Cust0317,Regular,Hair Treatment (Keratin)
-Cust0318,Occasional,Hair Extensions (Removal)
-Cust0319,Occasional,Hair Styling (Updo)
-Cust0320,Occasional,Waxing (Eyebrows)
-Cust0321,Regular,Waxing (Bikini)
-Cust0322,Occasional,Haircut (Women's)
-Cust0323,Occasional,Hair Treatment (Keratin)
-Cust0324,New,Makeup Application
-Cust0325,Regular,Hair Extensions (Installation)
-Cust0326,New,Haircut (Women's)
-Cust0327,Occasional,Hair Extensions (Removal)
-Cust0328,Occasional,Waxing (Eyebrows)
-Cust0329,Regular,Hair Extensions (Installation)
-Cust0330,Regular,Hair Coloring (Roots)
-Cust0331,Occasional,Hair Treatment (Deep Conditioning)
-Cust0332,Occasional,Hair Styling (Blowout)
-Cust0333,Occasional,Haircut (Children's)
-Cust0334,Occasional,Haircut (Women's)
-Cust0335,Regular,Makeup Application
-Cust0336,New,Hair Extensions (Installation)
-Cust0337,Occasional,Hair Styling (Blowout)
-Cust0338,New,Haircut (Children's)
-Cust0339,Occasional,Waxing (Bikini)
-Cust0340,Occasional,Haircut (Children's)
-Cust0341,Occasional,Makeup Application
-Cust0342,Regular,Haircut (Men's)
-Cust0343,Regular,Waxing (Eyebrows)
-Cust0344,Regular,Perm
-Cust0345,Regular,Haircut (Children's)
-Cust0346,Regular,Makeup Application
-Cust0347,Regular,Hair Treatment (Deep Conditioning)
-Cust0348,Occasional,Highlights
-Cust0349,Occasional,Waxing (Eyebrows)
-Cust0350,Regular,Waxing (Legs)
-Cust0351,Occasional,Perm
-Cust0352,Regular,Haircut (Children's)
-Cust0353,Regular,Hair Treatment (Keratin)
-Cust0354,Occasional,Perm
-Cust0355,Regular,Relaxer
-Cust0356,Occasional,Balayage
-Cust0357,Occasional,Hair Treatment (Keratin)
-Cust0358,Occasional,Haircut (Men's)
-Cust0359,Occasional,Waxing (Bikini)
-Cust0360,New,Haircut (Children's)
-Cust0361,New,Waxing (Eyebrows)
-Cust0362,Regular,Perm
-Cust0363,Occasional,Facial
-Cust0364,Occasional,Haircut (Women's)
-Cust0365,Regular,Perm
-Cust0366,New,Perm
-Cust0367,Occasional,Waxing (Eyebrows)
-Cust0368,Occasional,Haircut (Children's)
-Cust0369,New,Hair Coloring (Full)
-Cust0370,New,Hair Styling (Blowout)
-Cust0371,Occasional,Hair Extensions (Removal)
-Cust0372,Occasional,Hair Treatment (Keratin)
-Cust0373,Occasional,Hair Treatment (Keratin)
-Cust0374,Occasional,Waxing (Bikini)
-Cust0375,Occasional,Relaxer
-Cust0376,New,Perm
-Cust0377,New,Hair Treatment (Deep Conditioning)
-Cust0378,Occasional,Waxing (Bikini)
-Cust0379,Occasional,Hair Coloring (Full)
-Cust0380,Regular,Relaxer
-Cust0381,Occasional,Haircut (Men's)
-Cust0382,Occasional,Makeup Application
-Cust0383,Regular,Makeup Application
-Cust0384,Regular,Haircut (Women's)
-Cust0385,Occasional,Haircut (Men's)
-Cust0386,New,Hair Styling (Updo)
-Cust0387,New,Haircut (Women's)
-Cust0388,Occasional,Waxing (Legs)
-Cust0389,Occasional,Hair Treatment (Deep Conditioning)
-Cust0390,Regular,Haircut (Women's)
-Cust0391,Occasional,Hair Styling (Updo)
-Cust0392,Regular,Hair Styling (Blowout)
-Cust0393,Occasional,Hair Styling (Updo)
-Cust0394,Regular,Hair Coloring (Full)
-Cust0395,Regular,Waxing (Eyebrows)
-Cust0396,Occasional,Hair Treatment (Keratin)
-Cust0397,Regular,Haircut (Women's)
-Cust0398,Occasional,Hair Treatment (Deep Conditioning)
-Cust0399,Regular,Waxing (Bikini)
-Cust0400,New,Waxing (Eyebrows)
-Cust0401,Occasional,Hair Coloring (Roots)
-Cust0402,Occasional,Highlights
-Cust0403,Regular,Haircut (Children's)
-Cust0404,New,Waxing (Eyebrows)
-Cust0405,Regular,Haircut (Women's)
-Cust0406,Regular,Balayage
-Cust0407,Occasional,Waxing (Legs)
-Cust0408,Occasional,Relaxer
-Cust0409,Occasional,Relaxer
-Cust0410,New,Highlights
-Cust0411,New,Haircut (Men's)
-Cust0412,Occasional,Hair Treatment (Deep Conditioning)
-Cust0413,Regular,Facial
-Cust0414,Regular,Perm
-Cust0415,Occasional,Waxing (Eyebrows)
-Cust0416,Occasional,Waxing (Eyebrows)
-Cust0417,Regular,Relaxer
-Cust0418,New,Hair Treatment (Keratin)
-Cust0419,Occasional,Haircut (Women's)
-Cust0420,Occasional,Hair Extensions (Removal)
-Cust0421,Occasional,Waxing (Eyebrows)
-Cust0422,Regular,Waxing (Eyebrows)
-Cust0423,Regular,Haircut (Women's)
-Cust0424,New,Hair Coloring (Roots)
-Cust0425,Occasional,Relaxer
-Cust0426,Regular,Hair Styling (Blowout)
-Cust0427,Occasional,Highlights
-Cust0428,Occasional,Waxing (Bikini)
-Cust0429,Occasional,Hair Styling (Blowout)
-Cust0430,Regular,Haircut (Children's)
-Cust0431,Occasional,Relaxer
-Cust0432,Occasional,Hair Styling (Updo)
-Cust0433,Occasional,Hair Extensions (Installation)
-Cust0434,Regular,Waxing (Bikini)
-Cust0435,New,Balayage
-Cust0436,Occasional,Balayage
-Cust0437,Occasional,Hair Treatment (Deep Conditioning)
-Cust0438,New,Hair Styling (Blowout)
-Cust0439,Regular,Hair Extensions (Installation)
-Cust0440,Occasional,Hair Coloring (Roots)
-Cust0441,New,Balayage
-Cust0442,Regular,Haircut (Men's)
-Cust0443,Regular,Balayage
-Cust0444,Occasional,Waxing (Bikini)
-Cust0445,Regular,Hair Extensions (Removal)
-Cust0446,Occasional,Hair Styling (Updo)
-Cust0447,Regular,Hair Treatment (Keratin)
-Cust0448,Occasional,Haircut (Women's)
-Cust0449,Regular,Facial
-Cust0450,Occasional,Facial
-Cust0451,Regular,Haircut (Men's)
-Cust0452,Regular,Hair Extensions (Installation)
-Cust0453,Occasional,Makeup Application
-Cust0454,Occasional,Haircut (Men's)
-Cust0455,New,Facial
-Cust0456,Occasional,Waxing (Bikini)
-Cust0457,Occasional,Waxing (Eyebrows)
-Cust0458,Occasional,Makeup Application
-Cust0459,Regular,Haircut (Men's)
-Cust0460,Occasional,Waxing (Bikini)
-Cust0461,Regular,Highlights
-Cust0462,Occasional,Haircut (Men's)
-Cust0463,Occasional,Hair Coloring (Full)
-Cust0464,Occasional,Waxing (Bikini)
-Cust0465,New,Waxing (Bikini)
-Cust0466,Occasional,Haircut (Children's)
-Cust0467,New,Waxing (Eyebrows)
-Cust0468,New,Hair Styling (Updo)
-Cust0469,Regular,Hair Treatment (Deep Conditioning)
-Cust0470,Regular,Haircut (Children's)
-Cust0471,Occasional,Haircut (Children's)
-Cust0472,New,Balayage
-Cust0473,Occasional,Hair Coloring (Roots)
-Cust0474,Occasional,Relaxer
-Cust0475,Occasional,Relaxer
-Cust0476,New,Hair Coloring (Full)
-Cust0477,Occasional,Hair Coloring (Full)
-Cust0478,New,Hair Styling (Blowout)
-Cust0479,Regular,Waxing (Eyebrows)
-Cust0480,Regular,Hair Treatment (Keratin)
-Cust0481,Occasional,Waxing (Eyebrows)
-Cust0482,Occasional,Hair Styling (Blowout)
-Cust0483,Occasional,Waxing (Eyebrows)
-Cust0484,Occasional,Haircut (Men's)
-Cust0485,New,Hair Styling (Blowout)
-Cust0486,Regular,Highlights
-Cust0487,Occasional,Relaxer
-Cust0488,Occasional,Hair Treatment (Deep Conditioning)
-Cust0489,Occasional,Highlights
-Cust0490,Occasional,Hair Coloring (Full)
-Cust0491,Occasional,Hair Coloring (Full)
-Cust0492,Occasional,Waxing (Bikini)
-Cust0493,Occasional,Relaxer
-Cust0494,Regular,Haircut (Men's)
-Cust0495,Regular,Hair Styling (Updo)
-Cust0496,Regular,Hair Extensions (Removal)
-Cust0497,Occasional,Highlights
-Cust0498,Regular,Hair Coloring (Roots)
-Cust0499,New,Haircut (Women's)
-Cust0500,Regular,Hair Styling (Blowout)
+CustomerID,Age,Gender,RegistrationDate,ZipCode,EmailSubscription,SMSSubscription
+Cust0001,58,F,2022-12-07,90015,True,True
+Cust0002,26,F,2021-02-08,90049,True,False
+Cust0003,20,F,2022-09-28,90013,True,True
+Cust0004,53,F,2021-03-07,90212,False,True
+Cust0005,46,M,2022-12-26,90012,False,False
+Cust0006,35,F,2022-05-26,90024,True,True
+Cust0007,42,F,2021-12-30,90025,False,True
+Cust0008,64,M,2021-07-01,90004,False,True
+Cust0009,53,M,2021-03-29,90066,False,True
+Cust0010,63,F,2022-11-16,90211,True,False
+Cust0011,23,F,2022-09-20,90034,False,False
+Cust0012,58,M,2022-07-19,90025,False,True
+Cust0013,60,M,2021-01-13,90211,True,True
+Cust0014,52,F,2022-07-18,90036,False,False
+Cust0015,58,F,2021-01-30,90024,True,True
+Cust0016,70,F,2022-02-12,90034,False,True
+Cust0017,31,M,2022-05-29,90210,False,False
+Cust0018,74,M,2022-08-08,90015,True,True
+Cust0019,65,M,2021-05-13,90035,False,False
+Cust0020,32,F,2021-07-29,90046,True,True
+Cust0021,73,F,2022-07-29,90210,True,False
+Cust0022,56,F,2021-12-03,90034,False,False
+Cust0023,53,F,2021-02-04,90004,False,False
+Cust0024,25,M,2021-10-13,90012,False,True
+Cust0025,64,M,2021-08-07,90012,True,False
+Cust0026,71,F,2022-07-29,90025,True,True
+Cust0027,56,M,2021-08-19,90001,True,False
+Cust0028,74,M,2022-05-01,90002,True,True
+Cust0029,23,M,2022-10-23,90049,True,True
+Cust0030,60,M,2021-06-18,90012,False,False
+Cust0031,31,F,2021-01-01,90017,False,False
+Cust0032,46,M,2022-08-31,90014,True,True
+Cust0033,39,F,2021-05-09,90049,True,True
+Cust0034,18,F,2021-01-07,90210,True,True
+Cust0035,22,F,2022-01-28,90003,True,False
+Cust0036,60,M,2022-05-27,90049,True,False
+Cust0037,33,M,2021-11-11,90013,True,True
+Cust0038,60,M,2022-01-04,90035,False,False
+Cust0039,73,F,2021-02-11,90210,True,True
+Cust0040,43,M,2022-09-12,90014,True,True
+Cust0041,52,M,2022-08-11,90035,True,False
+Cust0042,47,F,2022-10-16,90036,True,True
+Cust0043,59,F,2022-09-28,90014,True,False
+Cust0044,49,M,2022-05-28,90034,True,True
+Cust0045,42,F,2021-11-28,90015,False,False
+Cust0046,45,M,2022-07-27,90013,False,True
+Cust0047,21,F,2022-02-14,90002,True,False
+Cust0048,50,F,2022-11-04,90048,True,True
+Cust0049,22,F,2021-02-09,90014,False,True
+Cust0050,74,F,2021-05-19,90066,True,True
+Cust0051,44,M,2022-04-09,90013,False,True
+Cust0052,34,M,2022-08-20,90211,False,False
+Cust0053,38,F,2022-12-23,90036,True,True
+Cust0054,52,F,2021-08-01,90015,True,False
+Cust0055,74,F,2022-04-26,90025,False,True
+Cust0056,46,M,2021-04-15,90210,True,False
+Cust0057,60,F,2022-08-17,90015,True,True
+Cust0058,65,F,2022-03-29,90017,True,False
+Cust0059,31,M,2021-08-02,90046,False,True
+Cust0060,23,M,2022-03-24,90002,True,False
+Cust0061,67,F,2021-03-20,90015,True,False
+Cust0062,53,M,2021-06-06,90001,True,True
+Cust0063,74,F,2021-06-22,90002,False,True
+Cust0064,45,F,2022-11-20,90017,False,True
+Cust0065,75,M,2022-05-31,90211,True,True
+Cust0066,40,M,2021-04-06,90005,True,True
+Cust0067,69,F,2021-11-05,90001,True,False
+Cust0068,68,M,2021-02-15,90014,False,True
+Cust0069,68,F,2021-12-06,90002,False,True
+Cust0070,30,M,2022-01-08,90017,True,True
+Cust0071,19,F,2021-11-19,90024,False,True
+Cust0072,67,M,2022-01-07,90210,False,False
+Cust0073,19,F,2022-04-09,90012,False,True
+Cust0074,24,M,2022-01-13,90024,False,True
+Cust0075,42,F,2022-04-16,90002,False,True
+Cust0076,51,F,2021-12-25,90035,True,False
+Cust0077,57,M,2021-02-21,90004,False,False
+Cust0078,60,M,2022-02-01,90034,False,True
+Cust0079,30,M,2021-02-20,90034,True,False
+Cust0080,43,F,2022-02-24,90017,True,False
+Cust0081,68,M,2021-09-12,90036,False,True
+Cust0082,50,M,2022-07-12,90211,True,False
+Cust0083,50,M,2022-09-28,90014,False,True
+Cust0084,69,F,2022-08-04,90001,True,True
+Cust0085,48,F,2021-09-22,90035,True,False
+Cust0086,49,M,2022-04-27,90005,True,True
+Cust0087,67,M,2022-05-22,90012,False,True
+Cust0088,53,F,2022-08-30,90036,True,False
+Cust0089,60,M,2021-10-05,90066,False,False
+Cust0090,75,F,2021-09-02,90036,False,True
+Cust0091,71,M,2021-07-17,90046,True,False
+Cust0092,46,F,2021-01-01,90017,True,False
+Cust0093,39,M,2021-06-27,90003,True,True
+Cust0094,32,M,2021-01-21,90005,True,True
+Cust0095,44,M,2022-01-28,90049,False,False
+Cust0096,21,F,2021-10-28,90034,True,False
+Cust0097,48,F,2022-01-06,90017,False,False
+Cust0098,52,F,2021-08-20,90014,False,False
+Cust0099,49,F,2021-11-29,90024,False,True
+Cust0100,71,M,2022-08-24,90066,True,False
+Cust0101,55,F,2022-10-08,90210,False,True
+Cust0102,73,M,2022-06-29,90002,False,False
+Cust0103,38,F,2021-09-23,90024,False,False
+Cust0104,35,M,2022-04-18,90003,False,True
+Cust0105,65,F,2022-01-08,90014,True,True
+Cust0106,66,F,2022-04-23,90013,True,True
+Cust0107,33,F,2021-09-04,90211,True,True
+Cust0108,47,M,2021-12-20,90012,True,True
+Cust0109,37,F,2021-05-19,90001,False,False
+Cust0110,43,F,2022-10-16,90064,True,True
+Cust0111,62,M,2021-01-31,90066,True,True
+Cust0112,40,M,2021-02-23,90025,True,False
+Cust0113,18,M,2021-08-18,90004,False,False
+Cust0114,58,M,2021-01-07,90005,False,True
+Cust0115,64,M,2021-04-11,90049,False,False
+Cust0116,45,M,2022-02-05,90014,True,False
+Cust0117,74,M,2022-04-27,90036,False,False
+Cust0118,19,M,2022-02-03,90012,False,True
+Cust0119,40,M,2022-01-18,90015,False,True
+Cust0120,51,F,2022-10-06,90014,False,False
+Cust0121,53,F,2021-01-24,90046,False,False
+Cust0122,68,F,2022-09-28,90017,True,False
+Cust0123,62,F,2022-02-22,90211,False,False
+Cust0124,53,M,2021-10-23,90049,False,False
+Cust0125,62,M,2022-03-30,90017,False,True
+Cust0126,25,F,2022-02-12,90004,True,True
+Cust0127,31,M,2022-03-24,90064,False,True
+Cust0128,71,F,2022-03-04,90014,False,True
+Cust0129,37,F,2021-01-06,90049,True,False
+Cust0130,20,F,2021-06-14,90017,True,False
+Cust0131,24,F,2021-05-24,90017,False,False
+Cust0132,46,M,2022-06-27,90002,False,False
+Cust0133,25,F,2021-11-17,90046,True,True
+Cust0134,27,F,2021-06-04,90017,True,True
+Cust0135,25,M,2021-04-21,90066,True,False
+Cust0136,46,M,2022-03-03,90064,False,False
+Cust0137,54,F,2021-04-17,90004,True,True
+Cust0138,34,F,2022-07-25,90014,True,True
+Cust0139,28,F,2021-11-09,90036,False,False
+Cust0140,20,F,2022-03-12,90212,False,False
+Cust0141,22,F,2022-04-06,90210,True,False
+Cust0142,25,F,2021-03-09,90005,False,True
+Cust0143,22,F,2022-07-16,90017,False,False
+Cust0144,25,M,2021-01-26,90017,False,False
+Cust0145,50,M,2021-10-10,90003,True,False
+Cust0146,65,M,2021-04-23,90015,True,True
+Cust0147,32,F,2021-02-12,90015,True,True
+Cust0148,48,M,2022-03-23,90012,False,False
+Cust0149,23,M,2022-01-10,90035,False,False
+Cust0150,60,F,2022-07-21,90024,False,False
+Cust0151,36,M,2021-06-17,90002,False,True
+Cust0152,38,M,2022-02-04,90004,False,True
+Cust0153,60,M,2021-11-04,90002,True,False
+Cust0154,57,M,2021-04-01,90036,True,True
+Cust0155,35,F,2022-03-13,90036,False,True
+Cust0156,19,F,2021-01-05,90012,False,True
+Cust0157,53,M,2022-09-28,90014,True,False
+Cust0158,25,F,2021-08-09,90212,False,False
+Cust0159,44,M,2021-09-05,90014,False,True
+Cust0160,42,F,2021-04-28,90048,True,True
+Cust0161,35,M,2022-01-18,90048,False,True
+Cust0162,36,M,2021-05-10,90064,False,True
+Cust0163,46,M,2022-01-13,90024,False,False
+Cust0164,38,F,2021-01-17,90014,False,True
+Cust0165,72,M,2022-11-18,90024,False,False
+Cust0166,42,F,2021-08-12,90002,True,False
+Cust0167,73,F,2021-10-08,90004,False,True
+Cust0168,64,F,2021-11-08,90210,True,True
+Cust0169,48,M,2022-01-20,90066,False,True
+Cust0170,72,M,2021-02-10,90049,False,False
+Cust0171,58,M,2021-06-26,90002,True,True
+Cust0172,58,M,2022-05-14,90003,False,True
+Cust0173,66,F,2021-10-04,90012,False,True
+Cust0174,20,M,2022-11-05,90017,False,False
+Cust0175,45,F,2022-04-26,90048,False,True
+Cust0176,28,F,2022-10-13,90066,False,True
+Cust0177,49,F,2022-05-09,90036,False,False
+Cust0178,34,F,2021-09-12,90017,True,True
+Cust0179,46,M,2021-05-10,90017,False,False
+Cust0180,47,M,2022-06-12,90034,False,True
+Cust0181,33,M,2021-05-26,90025,False,False
+Cust0182,19,M,2022-03-26,90001,True,False
+Cust0183,71,M,2022-05-11,90066,False,True
+Cust0184,58,F,2021-04-06,90015,True,True
+Cust0185,75,F,2022-02-19,90036,True,False
+Cust0186,64,F,2022-10-01,90017,False,False
+Cust0187,29,F,2022-08-19,90049,False,False
+Cust0188,71,F,2022-04-13,90046,False,False
+Cust0189,69,F,2021-09-09,90003,True,True
+Cust0190,73,M,2021-06-10,90025,True,False
+Cust0191,18,M,2021-07-01,90004,False,False
+Cust0192,61,M,2021-05-13,90034,False,True
+Cust0193,61,F,2021-09-06,90001,False,True
+Cust0194,59,F,2021-03-22,90036,False,False
+Cust0195,25,F,2022-11-16,90002,False,False
+Cust0196,25,F,2022-05-06,90049,True,False
+Cust0197,47,M,2021-02-14,90212,False,True
+Cust0198,74,M,2021-03-02,90004,False,False
+Cust0199,35,F,2021-01-25,90025,True,False
+Cust0200,46,F,2021-12-26,90004,False,False
+Cust0201,21,M,2022-03-25,90013,True,False
+Cust0202,23,F,2021-03-15,90210,True,True
+Cust0203,68,M,2022-04-27,90005,True,True
+Cust0204,71,F,2021-05-11,90013,True,False
+Cust0205,67,F,2021-05-01,90001,False,True
+Cust0206,26,M,2022-07-07,90004,True,True
+Cust0207,18,M,2022-05-03,90064,False,True
+Cust0208,29,M,2022-11-09,90005,False,True
+Cust0209,65,F,2021-09-01,90036,False,True
+Cust0210,46,F,2021-04-12,90002,False,False
+Cust0211,59,F,2022-10-31,90046,False,False
+Cust0212,61,F,2021-08-17,90212,False,True
+Cust0213,75,F,2022-02-06,90066,True,True
+Cust0214,26,M,2021-04-02,90210,False,False
+Cust0215,56,M,2021-09-24,90048,False,True
+Cust0216,68,F,2021-03-02,90210,True,False
+Cust0217,46,F,2021-11-04,90024,False,False
+Cust0218,44,F,2022-02-15,90035,False,False
+Cust0219,41,F,2021-01-28,90046,True,True
+Cust0220,71,F,2022-09-28,90035,True,False
+Cust0221,69,F,2021-06-11,90002,False,True
+Cust0222,44,M,2021-02-19,90035,True,False
+Cust0223,56,M,2022-01-06,90004,True,True
+Cust0224,60,M,2022-05-17,90004,False,False
+Cust0225,25,M,2021-05-24,90014,False,True
+Cust0226,56,M,2022-12-03,90012,False,False
+Cust0227,39,M,2022-12-26,90012,True,False
+Cust0228,22,F,2021-03-24,90001,True,True
+Cust0229,42,M,2021-09-24,90024,True,False
+Cust0230,37,M,2021-05-30,90066,True,True
+Cust0231,27,F,2021-04-09,90002,True,False
+Cust0232,46,M,2021-08-22,90066,False,False
+Cust0233,35,F,2021-07-26,90004,False,False
+Cust0234,25,M,2021-02-06,90211,False,False
+Cust0235,20,F,2021-11-23,90066,True,True
+Cust0236,31,M,2022-05-30,90005,False,False
+Cust0237,38,F,2022-12-25,90046,False,True
+Cust0238,26,M,2021-07-05,90212,True,False
+Cust0239,22,M,2022-11-19,90035,True,False
+Cust0240,22,M,2021-05-22,90035,False,False
+Cust0241,36,F,2021-11-13,90001,False,True
+Cust0242,69,M,2021-01-25,90025,True,False
+Cust0243,72,F,2022-04-27,90035,False,True
+Cust0244,43,M,2022-01-19,90014,False,True
+Cust0245,22,F,2021-07-07,90048,True,False
+Cust0246,40,F,2022-05-05,90004,True,False
+Cust0247,30,F,2021-04-25,90005,True,True
+Cust0248,67,M,2021-09-13,90064,False,False
+Cust0249,73,M,2022-07-31,90036,True,False
+Cust0250,46,M,2022-03-26,90064,True,False
+Cust0251,50,F,2022-02-18,90036,False,True
+Cust0252,21,M,2022-03-14,90003,True,False
+Cust0253,47,F,2021-09-28,90064,True,False
+Cust0254,56,M,2021-08-06,90005,True,False
+Cust0255,24,M,2022-10-07,90048,True,True
+Cust0256,33,M,2021-10-09,90048,True,False
+Cust0257,41,M,2021-12-01,90035,False,True
+Cust0258,68,M,2022-10-26,90024,True,False
+Cust0259,36,M,2021-02-28,90066,True,False
+Cust0260,23,F,2022-01-08,90017,False,True
+Cust0261,56,F,2022-02-18,90049,False,False
+Cust0262,70,F,2021-02-14,90212,True,False
+Cust0263,50,M,2022-12-14,90025,False,True
+Cust0264,31,M,2021-08-22,90013,True,True
+Cust0265,27,F,2022-03-05,90004,True,False
+Cust0266,74,F,2021-04-30,90034,True,True
+Cust0267,29,F,2021-10-10,90002,False,False
+Cust0268,61,F,2021-10-04,90066,False,False
+Cust0269,32,F,2022-02-19,90046,True,False
+Cust0270,61,M,2021-09-16,90017,False,False
+Cust0271,28,F,2021-04-22,90005,False,True
+Cust0272,59,M,2021-12-17,90049,True,True
+Cust0273,36,F,2022-07-21,90015,False,True
+Cust0274,71,M,2022-09-30,90014,False,False
+Cust0275,19,M,2022-11-08,90034,False,True
+Cust0276,42,F,2021-12-14,90014,True,False
+Cust0277,24,M,2022-08-05,90005,True,False
+Cust0278,71,M,2021-01-19,90005,False,False
+Cust0279,57,F,2022-10-12,90001,False,True
+Cust0280,71,F,2021-06-19,90066,False,True
+Cust0281,67,M,2022-05-03,90017,True,True
+Cust0282,33,M,2021-03-18,90066,False,True
+Cust0283,25,M,2021-04-30,90049,True,True
+Cust0284,63,F,2022-03-09,90035,True,False
+Cust0285,33,M,2022-06-24,90211,True,False
+Cust0286,22,F,2021-11-28,90046,True,False
+Cust0287,41,M,2022-12-16,90025,True,False
+Cust0288,33,F,2021-05-16,90024,True,True
+Cust0289,40,M,2021-03-14,90012,False,False
+Cust0290,58,F,2022-08-16,90003,False,True
+Cust0291,36,F,2022-11-18,90013,True,False
+Cust0292,37,M,2021-06-24,90046,False,True
+Cust0293,66,F,2022-03-15,90025,True,False
+Cust0294,35,F,2021-12-21,90035,False,False
+Cust0295,75,M,2022-01-19,90012,False,False
+Cust0296,41,M,2022-10-09,90035,True,False
+Cust0297,56,F,2021-06-22,90017,False,True
+Cust0298,23,M,2021-02-24,90017,False,False
+Cust0299,56,M,2022-07-15,90212,False,False
+Cust0300,46,F,2022-01-05,90066,False,False
+Cust0301,58,F,2022-10-17,90211,False,False
+Cust0302,50,F,2022-12-01,90005,False,True
+Cust0303,26,F,2022-05-05,90210,False,False
+Cust0304,42,F,2021-04-22,90005,False,False
+Cust0305,41,M,2022-10-15,90064,True,False
+Cust0306,43,M,2021-03-07,90015,True,True
+Cust0307,19,F,2021-08-08,90048,False,True
+Cust0308,34,M,2021-01-11,90036,True,False
+Cust0309,62,M,2022-06-11,90004,True,True
+Cust0310,46,F,2021-01-01,90036,True,False
+Cust0311,60,M,2021-01-05,90003,False,False
+Cust0312,72,F,2021-01-03,90212,True,False
+Cust0313,50,F,2022-08-30,90013,True,True
+Cust0314,68,M,2022-12-06,90025,False,False
+Cust0315,69,F,2021-04-15,90003,True,False
+Cust0316,43,M,2021-07-12,90035,False,True
+Cust0317,26,M,2021-03-15,90003,False,False
+Cust0318,61,M,2022-08-23,90049,True,True
+Cust0319,45,F,2022-08-27,90048,True,False
+Cust0320,28,F,2022-02-05,90212,True,False
+Cust0321,51,M,2022-10-13,90015,True,False
+Cust0322,26,M,2021-04-12,90049,True,True
+Cust0323,55,F,2022-07-10,90211,False,True
+Cust0324,70,F,2022-10-10,90002,False,True
+Cust0325,67,M,2021-04-09,90210,True,False
+Cust0326,74,M,2021-03-15,90017,False,True
+Cust0327,69,M,2022-03-03,90036,True,True
+Cust0328,28,M,2021-11-02,90046,False,True
+Cust0329,39,F,2022-02-15,90212,False,False
+Cust0330,43,F,2021-12-18,90048,True,False
+Cust0331,33,M,2022-08-29,90015,False,True
+Cust0332,27,F,2022-11-11,90017,False,False
+Cust0333,33,F,2022-01-31,90064,False,True
+Cust0334,66,F,2021-08-09,90048,False,False
+Cust0335,74,M,2021-08-10,90001,True,False
+Cust0336,50,M,2022-04-30,90013,False,True
+Cust0337,21,M,2021-08-13,90066,False,False
+Cust0338,52,F,2022-09-13,90035,True,False
+Cust0339,64,M,2021-11-15,90025,True,False
+Cust0340,21,F,2021-12-26,90049,False,True
+Cust0341,42,M,2021-06-17,90015,True,True
+Cust0342,24,M,2021-12-15,90024,False,True
+Cust0343,30,M,2021-08-07,90002,True,True
+Cust0344,26,M,2021-09-03,90048,False,True
+Cust0345,56,F,2022-01-31,90066,False,True
+Cust0346,43,M,2021-05-04,90024,False,False
+Cust0347,48,F,2021-12-20,90024,True,False
+Cust0348,55,M,2021-01-27,90210,True,False
+Cust0349,34,F,2022-11-10,90064,False,True
+Cust0350,51,M,2022-08-03,90211,True,True
+Cust0351,54,F,2022-06-20,90001,False,False
+Cust0352,44,F,2021-11-05,90212,True,False
+Cust0353,50,M,2022-10-30,90212,True,True
+Cust0354,53,M,2021-02-22,90046,False,False
+Cust0355,29,M,2021-07-05,90024,False,False
+Cust0356,57,M,2022-06-19,90014,False,False
+Cust0357,32,M,2022-03-12,90212,True,False
+Cust0358,38,M,2022-01-09,90049,False,False
+Cust0359,25,M,2021-11-23,90025,True,False
+Cust0360,20,M,2022-10-13,90025,False,False
+Cust0361,65,M,2022-05-27,90013,False,False
+Cust0362,26,F,2021-04-11,90064,True,True
+Cust0363,21,F,2021-03-19,90014,True,True
+Cust0364,44,M,2021-09-05,90004,True,True
+Cust0365,53,F,2021-11-11,90210,False,False
+Cust0366,59,F,2022-03-13,90024,False,True
+Cust0367,67,F,2021-03-05,90064,True,True
+Cust0368,29,M,2022-07-05,90002,False,False
+Cust0369,29,M,2022-11-24,90001,False,True
+Cust0370,39,M,2021-09-23,90210,False,True
+Cust0371,72,M,2022-03-28,90013,True,False
+Cust0372,28,M,2021-03-09,90015,True,True
+Cust0373,65,M,2022-03-05,90064,True,True
+Cust0374,57,M,2021-10-21,90048,False,True
+Cust0375,43,F,2022-06-26,90005,False,False
+Cust0376,33,F,2022-04-09,90034,True,False
+Cust0377,66,M,2022-01-29,90017,True,False
+Cust0378,59,M,2021-01-22,90014,True,True
+Cust0379,47,M,2022-07-22,90034,False,True
+Cust0380,58,M,2021-12-21,90066,True,True
+Cust0381,26,M,2022-07-29,90036,False,False
+Cust0382,62,M,2021-06-30,90211,True,True
+Cust0383,61,F,2021-07-12,90036,False,True
+Cust0384,54,F,2022-10-30,90049,True,True
+Cust0385,28,M,2021-07-18,90036,True,True
+Cust0386,63,M,2022-09-30,90048,False,True
+Cust0387,47,F,2021-07-25,90035,False,True
+Cust0388,53,M,2021-02-12,90017,True,False
+Cust0389,34,F,2022-05-23,90064,True,True
+Cust0390,45,M,2021-01-14,90003,True,True
+Cust0391,48,F,2022-03-14,90035,True,True
+Cust0392,67,M,2021-12-14,90034,False,False
+Cust0393,42,F,2021-02-01,90211,True,False
+Cust0394,25,F,2021-06-30,90034,True,True
+Cust0395,71,F,2022-12-09,90017,False,False
+Cust0396,52,M,2022-05-11,90014,False,False
+Cust0397,27,M,2022-06-22,90004,True,False
+Cust0398,57,F,2022-04-30,90013,True,True
+Cust0399,56,F,2021-10-01,90066,True,True
+Cust0400,65,F,2021-11-16,90036,True,True
+Cust0401,66,F,2022-08-11,90048,False,True
+Cust0402,70,M,2021-05-20,90066,False,True
+Cust0403,37,F,2021-02-24,90048,True,False
+Cust0404,37,M,2022-10-31,90049,True,False
+Cust0405,53,M,2022-11-14,90025,False,False
+Cust0406,62,M,2021-11-09,90005,False,False
+Cust0407,29,M,2022-04-30,90014,False,True
+Cust0408,69,M,2022-11-03,90049,False,False
+Cust0409,53,F,2021-11-30,90014,False,True
+Cust0410,39,F,2021-09-28,90025,True,True
+Cust0411,21,M,2021-12-11,90211,True,True
+Cust0412,30,F,2021-08-29,90013,False,False
+Cust0413,18,F,2022-06-21,90004,False,True
+Cust0414,62,F,2021-11-21,90014,False,False
+Cust0415,42,M,2021-07-04,90210,False,False
+Cust0416,34,M,2021-07-25,90046,False,True
+Cust0417,69,M,2022-02-08,90013,False,False
+Cust0418,44,F,2021-06-04,90014,True,True
+Cust0419,34,M,2022-03-05,90005,True,False
+Cust0420,32,M,2021-05-28,90014,False,False
+Cust0421,34,M,2021-03-15,90046,False,True
+Cust0422,64,M,2022-07-12,90005,False,True
+Cust0423,74,F,2021-07-14,90002,True,True
+Cust0424,66,F,2021-11-05,90005,True,True
+Cust0425,63,F,2022-12-23,90013,False,False
+Cust0426,21,M,2021-02-25,90046,True,True
+Cust0427,52,M,2022-12-20,90001,False,False
+Cust0428,19,M,2022-07-02,90004,True,True
+Cust0429,33,F,2021-04-07,90048,False,False
+Cust0430,35,M,2022-10-13,90025,False,False
+Cust0431,54,F,2021-01-18,90014,False,True
+Cust0432,59,F,2022-09-28,90034,False,False
+Cust0433,53,M,2022-11-05,90210,True,True
+Cust0434,23,M,2021-10-14,90210,False,True
+Cust0435,75,F,2022-05-11,90013,False,False
+Cust0436,20,F,2021-01-31,90015,True,True
+Cust0437,72,M,2022-12-16,90013,True,False
+Cust0438,22,M,2022-07-19,90064,True,False
+Cust0439,61,M,2021-12-04,90005,True,False
+Cust0440,21,F,2021-10-11,90014,True,False
+Cust0441,56,M,2022-02-01,90001,False,False
+Cust0442,49,F,2022-01-02,90049,False,False
+Cust0443,29,M,2022-10-06,90066,False,True
+Cust0444,63,F,2022-10-09,90015,True,False
+Cust0445,63,F,2021-11-29,90024,False,True
+Cust0446,23,F,2022-02-20,90036,False,False
+Cust0447,24,F,2022-10-04,90012,False,False
+Cust0448,53,M,2022-09-18,90001,True,False
+Cust0449,53,F,2021-04-30,90066,False,False
+Cust0450,18,M,2021-11-04,90034,True,True
+Cust0451,54,F,2021-01-30,90034,True,True
+Cust0452,35,M,2022-04-02,90046,True,True
+Cust0453,28,M,2022-03-25,90035,False,False
+Cust0454,68,F,2021-12-28,90015,True,False
+Cust0455,56,F,2021-09-20,90004,True,False
+Cust0456,18,M,2022-01-26,90066,False,False
+Cust0457,46,M,2021-10-18,90210,True,False
+Cust0458,38,F,2021-08-29,90024,True,False
+Cust0459,38,M,2021-01-20,90210,False,True
+Cust0460,38,M,2022-03-20,90034,False,True
+Cust0461,54,F,2021-05-05,90049,True,True
+Cust0462,64,M,2021-01-06,90013,False,False
+Cust0463,71,F,2021-11-09,90211,False,True
+Cust0464,58,M,2022-04-29,90015,True,False
+Cust0465,68,M,2022-10-18,90036,False,False
+Cust0466,52,M,2021-06-24,90002,False,True
+Cust0467,24,F,2021-02-27,90211,False,True
+Cust0468,59,F,2021-06-04,90210,False,False
+Cust0469,68,M,2022-09-15,90001,True,False
+Cust0470,32,F,2021-10-02,90025,False,False
+Cust0471,67,F,2022-01-13,90001,False,True
+Cust0472,36,M,2022-10-06,90004,True,False
+Cust0473,37,M,2021-09-22,90013,False,False
+Cust0474,48,F,2021-10-10,90212,False,False
+Cust0475,22,M,2022-11-17,90212,True,True
+Cust0476,72,M,2021-03-09,90004,True,True
+Cust0477,51,F,2021-06-15,90012,False,False
+Cust0478,47,F,2021-11-13,90210,True,True
+Cust0479,58,M,2021-11-22,90001,True,False
+Cust0480,55,M,2021-11-29,90001,True,True
+Cust0481,35,F,2021-05-20,90004,True,False
+Cust0482,38,F,2021-09-20,90004,False,False
+Cust0483,51,M,2021-04-30,90034,False,True
+Cust0484,40,M,2021-09-20,90066,True,False
+Cust0485,57,F,2021-02-12,90005,False,True
+Cust0486,33,M,2022-09-04,90012,False,True
+Cust0487,50,M,2021-10-30,90066,True,False
+Cust0488,45,F,2021-08-21,90210,True,True
+Cust0489,49,M,2022-08-11,90012,False,False
+Cust0490,57,F,2021-12-30,90001,False,True
+Cust0491,30,M,2021-06-05,90048,False,False
+Cust0492,61,M,2021-11-02,90212,False,False
+Cust0493,28,F,2021-06-02,90001,True,False
+Cust0494,20,M,2022-05-16,90049,False,True
+Cust0495,67,M,2021-06-01,90046,True,True
+Cust0496,35,M,2021-06-25,90002,False,True
+Cust0497,45,F,2021-03-03,90014,False,True
+Cust0498,46,M,2022-01-10,90003,False,True
+Cust0499,67,F,2022-06-01,90064,False,False
+Cust0500,28,F,2022-06-04,90013,True,False

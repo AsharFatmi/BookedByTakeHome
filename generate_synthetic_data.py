@@ -40,12 +40,75 @@ num_items = len(all_items)
 item_ids = [f"Item{i:04d}" for i in range(1, num_items + 1)]
 item_id_map = dict(zip(all_items, item_ids))  # Map item names to IDs
 
-# --- 3. Generate Purchase Records ---
+# --- 3. Generate Customer Data ---
+customer_data = []
+start_date = datetime(2023, 1, 1)
+
+# Los Angeles area zip codes
+la_zip_codes = [
+    '90001', '90002', '90003', '90004', '90005',  # South LA
+    '90012', '90013', '90014', '90015', '90017',  # Downtown LA
+    '90024', '90025', '90034', '90035', '90036',  # West LA
+    '90046', '90048', '90049', '90064', '90066',  # West/Central LA
+    '90210', '90211', '90212'  # Beverly Hills area
+]
+
+for cust_id in customer_ids:
+    # Generate customer demographics and details
+    age = random.randint(18, 75)
+    gender = random.choice(['F', 'M'])
+    
+    # Registration date (within the last 2 years)
+    registration_date = start_date - timedelta(days=random.randint(0, 730))
+    
+    # Location data (LA area)
+    zip_code = random.choice(la_zip_codes)
+    
+    # Marketing preferences
+    email_subscription = random.choice([True, False])
+    sms_subscription = random.choice([True, False])
+    
+    customer_data.append([
+        cust_id,
+        age,
+        gender,
+        registration_date,
+        zip_code,
+        email_subscription,
+        sms_subscription
+    ])
+
+# Create customers DataFrame with new columns
+df_customers = pd.DataFrame(customer_data, columns=[
+    'CustomerID',
+    'Age',
+    'Gender',
+    'RegistrationDate',
+    'ZipCode',
+    'EmailSubscription',
+    'SMSSubscription'
+])
+
+# --- 4. Generate Purchase Records ---
 num_records = 5000
 purchase_records = []
 
+# Create a dictionary of customer registration dates for quick lookup
+customer_reg_dates = dict(zip(df_customers['CustomerID'], df_customers['RegistrationDate']))
+
 for _ in range(num_records):
     customer_id = random.choice(customer_ids)
+    reg_date = customer_reg_dates[customer_id]
+    
+    # Calculate the valid date range for this customer
+    # From their registration date to end of 2023
+    days_since_reg = (datetime(2023, 12, 31) - reg_date).days
+    if days_since_reg <= 0:  # Skip if registration is after 2023
+        continue
+        
+    # Generate purchase date between registration and end of 2023
+    date = reg_date + timedelta(days=random.randint(0, days_since_reg))
+    
     # Simulate appointments (more likely than product-only purchases)
     if random.random() < 0.7:  # 70% chance of an appointment
         item_name = random.choice(services)
@@ -56,15 +119,12 @@ for _ in range(num_records):
         item_id = item_id_map[item_name]
         quantity = random.randint(1, 3)  # Can buy multiple products
 
-    # Simulate purchase date (within the last year)
-    date = datetime(2023, 1, 1) + timedelta(days=random.randint(0, 364))
     purchase_records.append([customer_id, item_id, quantity, date, item_name])
 
-
-# --- 4. Create DataFrames (Initially combined for feature engineering) ---
+# --- 5. Create DataFrames (Initially combined for feature engineering) ---
 df = pd.DataFrame(purchase_records, columns=['CustomerID', 'ItemID', 'Quantity', 'PurchaseDate', 'ItemName'])
 
-# --- 5. Add Salon-Specific Features (as before, but preparing for separation) ---
+# --- 6. Add Salon-Specific Features (as before, but preparing for separation) ---
 
 # a) Item Categories (Service vs. Product)
 df['ItemCategory'] = df['ItemName'].apply(lambda x: 'Service' if x in services else 'Product')
@@ -148,17 +208,9 @@ employee_ids = [f"Emp{i:02d}" for i in range(1, num_employees + 1)]
 df['EmployeeID'] = df.apply(lambda row: random.choice(employee_ids) if row['ItemCategory'] == 'Service' else None, axis=1)
 
 
-# --- 6. Create Separate DataFrames ---
+# --- 7. Create Separate DataFrames ---
 
-# 6a. Customers
-df_customers = pd.DataFrame({
-    'CustomerID': customer_ids,
-    'CustomerSegment': [customer_segment_map[cust_id] for cust_id in customer_ids],
-    'PreferredCategory': [customer_pref_service_map[cust_id] if customer_pref_service_map[cust_id] else customer_pref_product_map[cust_id]  for cust_id in customer_ids ] #pref service OR product
-
-})
-
-# 6b. Products/Items
+# 7a. Products/Items
 df_items = pd.DataFrame({
     'ItemID': item_ids,
     'ItemName': all_items,
@@ -167,12 +219,12 @@ df_items = pd.DataFrame({
     'UnitPrice': [get_price('Service', get_subcategory(item)) if item in services else get_price('Product', get_subcategory(item)) for item in all_items]
 })
 
-# 6c. Purchase Records
+# 7b. Purchase Records
 df_purchases = df[['CustomerID', 'ItemID', 'Quantity', 'PurchaseDate', 'TotalPrice', 'EmployeeID']].copy()
 df_purchases.rename(columns={'TotalPrice': 'TotalPrice'}, inplace=True)
 
 
-# --- 7. Save to CSV Files ---
+# --- 8. Save to CSV Files ---
 df_customers.to_csv('customers.csv', index=False)
 df_items.to_csv('items.csv', index=False)
 df_purchases.to_csv('purchases.csv', index=False)

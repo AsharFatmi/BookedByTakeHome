@@ -1,0 +1,30 @@
+# Model Architecture
+model:
+  embedding_dim: 32
+  dropout_rate: 0.2
+  hidden_layer_sizes: [4, 2, 1]  # Multipliers for embedding_dim
+  activation: "relu"
+  output_activation: "softmax"
+
+# Training Parameters
+training:
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 50
+  validation_split: 0.1
+  early_stopping_patience: 5
+
+# Regularization
+regularization:
+  l2_strength: 0.001
+
+# Evaluation
+evaluation:
+  test_period_months: 3
+  top_k_recommendations: 5
+
+# Data Processing
+preprocessing:
+  min_interactions: 5
+  fill_value: 0
+  unknown_category: "Unknown" 
