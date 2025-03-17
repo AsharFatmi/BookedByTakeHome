@@ -115,4 +115,105 @@ BookedByTakeHome/
 
 ## 🔬 Technical Details
 
-### Data Analytics Pipeline (`
+### Data Analytics Pipeline (`data_analysis.py`)
+
+1. **Data Analysis** (`DataAnalyzer class`)
+   - Sales trend analysis
+   - Revenue calculations
+   - Product performance metrics
+   - Functions: `analyze_sales()`, `calculate_revenue()`, `get_product_metrics()`
+
+2. **Visualization** (`DataAnalyzer class`)
+   - Interactive charts
+   - Performance dashboards
+   - Trend visualizations
+   - Functions: `plot_sales_trend()`, `create_revenue_charts()`
+
+### Customer Segmentation (`cluster_analysis.py`)
+
+1. **Preprocessing** (`ClusterAnalyzer class`)
+   - Feature engineering
+   - Data normalization
+   - Customer metric calculations
+   - Functions: `prepare_features()`, `calculate_customer_metrics()`
+
+2. **Clustering** (`ClusterAnalyzer class`)
+   - K-means implementation
+   - Cluster optimization
+   - Segment profiling
+   - Functions: `perform_clustering()`, `analyze_segments()`
+
+### Recommendation System (`inference.py`)
+
+1. **Model Architecture** (`RecommenderInference class`)
+   - Autoencoder implementation
+   - Neural network layers
+   - Training configuration
+   - Functions: `build_model()`, `train_model()`
+
+2. **Inference Pipeline** (`RecommenderInference class`)
+   - Input processing
+   - Recommendation generation
+   - Results filtering
+   - Functions: `generate_recommendations()`, `process_results()`
+
+## 📊 Data Requirements
+
+Required CSV files:
+- **customers.csv**:
+  - CustomerID (string)
+  - Demographics
+  - Subscription info
+
+- **items.csv**:
+  - ItemID (string)
+  - ItemName (string)
+  - Category
+  - Price
+
+- **purchases.csv**:
+  - CustomerID (string)
+  - ItemID (string)
+  - Quantity (numeric)
+  - PurchaseDate (datetime)
+  - Amount (numeric)
+
+## 🧠 Model Architecture
+
+The recommendation system uses an autoencoder neural network:
+
+```python
+Input Layer (n_items)
+    ↓
+Encoder Layers
+    ↓
+Latent Space (embedding)
+    ↓
+Decoder Layers
+    ↓
+Output Layer (n_items)
+```
+
+Key components:
+- Dense layers with ReLU activation
+- Dropout for regularization
+- MSE loss function
+- Adam optimizer
+
+## 👥 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 👤 Author
+
+- Ashar Fatmi
+
+## 🙏 Acknowledgments
+
+- TensorFlow team for the deep learning framework
+- Streamlit team for the web interface framework
+- scikit-learn team for machine learning utilities
