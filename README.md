@@ -11,7 +11,7 @@ The project demonstrates capabilities in data processing, machine learning, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/BookedByTakeHome.git
+git clone https://github.com/AsharFatmi/BookedByTakeHome.git
 cd BookedByTakeHome
 ```
 
