@@ -1,11 +1,25 @@
+"""
+Data analysis module for processing and analyzing customer purchase data.
+Provides functionality for loading, preprocessing, and analyzing sales data.
+"""
+
 import pandas as pd
 import json
 
 class DataAnalyzer:
+    """
+    Class for analyzing customer purchase data and generating insights.
+    Handles data loading, preprocessing, and analysis of sales patterns.
+    """
 
     def __init__(self, customers_file = 'customers.csv', items_file = 'items.csv', purchases_file = 'purchases.csv'):
         """
-        Initializes the DataAnalyzer class with the provided CSV files.
+        Initialize the DataAnalyzer with input file paths.
+        
+        Args:
+            customers_file (str): Path to customers CSV file
+            items_file (str): Path to items CSV file
+            purchases_file (str): Path to purchases CSV file
         """
         self.customers_file = customers_file
         self.items_file = items_file
@@ -17,16 +31,28 @@ class DataAnalyzer:
 
     def load_data(self):
         """
-        Loads customer purchase data from CSV files and performs basic data preprocessing.
-        Returns True if successful, False otherwise.
+        Load and preprocess customer purchase data from CSV files.
+        
+        Performs the following operations:
+        1. Loads customer, item, and purchase data
+        2. Fills missing employee IDs
+        3. Converts purchase dates to datetime
+        4. Merges data into a single DataFrame
+        
+        Returns:
+            bool: True if successful, False if any errors occur
         """
         try:
+            # Load all data files
             self.df_customers = pd.read_csv(self.customers_file)
             self.df_items = pd.read_csv(self.items_file)
             self.df_purchases = pd.read_csv(self.purchases_file)
 
+            # Clean and preprocess data
             self.df_purchases['EmployeeID'].fillna('Unknown', inplace=True)
             self.df_purchases['PurchaseDate'] = pd.to_datetime(self.df_purchases['PurchaseDate'])
+            
+            # Merge all dataframes
             self.df_merged = pd.merge(self.df_purchases, self.df_items, on='ItemID', how='left')
             self.df_merged = pd.merge(self.df_merged, self.df_customers, on='CustomerID', how='left')
             
@@ -152,21 +178,16 @@ class DataAnalyzer:
 
 
 if __name__ == "__main__":
-    # Initialize the analyzer
+    # Initialize the analyzer and run analysis
     analyzer = DataAnalyzer()
 
     # Load and analyze the data
     if analyzer.load_data():
-        
         # Get and print analysis results
         results = analyzer.analyze_sales_and_spending()
 
-        # Save analysis results to JSON file
+        # Save analysis results to JSON file for caching
         with open('analysis_results.json', 'w') as f:
             json.dump(results, f, indent=2)
         
         print("Analysis results saved to analysis_results.json")
-        
-        # print(json.dumps(results, indent=2))
-        
-        # analyzer.save_merged_data()

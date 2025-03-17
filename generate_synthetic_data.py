@@ -1,40 +1,64 @@
+"""
+Synthetic data generation script for the salon management system.
+Generates realistic customer, service, product, and purchase data for testing and development.
+"""
+
 import pandas as pd
 import numpy as np
 import random
 from datetime import datetime, timedelta
 
-# Set a seed for reproducibility
+# Set random seeds for reproducibility
 random.seed(42)
 np.random.seed(42)
 
-# --- 1. Generate Customer IDs ---
-num_customers = 500
+# --- 1. Generate Customer Data ---
+num_customers = 500  # Total number of customers to generate
 customer_ids = [f"Cust{i:04d}" for i in range(1, num_customers + 1)]
 
-# --- 2. Generate Service and Product IDs ---
-#  Salon services and products
+# --- 2. Define Service and Product Categories ---
+# Salon services with realistic categories
 services = [
+    # Hair Services
     "Haircut (Women's)", "Haircut (Men's)", "Haircut (Children's)",
     "Hair Coloring (Full)", "Hair Coloring (Roots)", "Highlights", "Balayage",
     "Hair Treatment (Deep Conditioning)", "Hair Treatment (Keratin)",
     "Hair Styling (Updo)", "Hair Styling (Blowout)",
     "Perm", "Relaxer",
     "Hair Extensions (Installation)", "Hair Extensions (Removal)",
-    "Makeup Application", "Facial", "Waxing (Eyebrows)", "Waxing (Legs)", "Waxing (Bikini)"
+    
+    # Beauty Services
+    "Makeup Application", "Facial", 
+    "Waxing (Eyebrows)", "Waxing (Legs)", "Waxing (Bikini)"
 ]
+
+# Salon retail products with categories
 products = [
-    "Shampoo (Volume)", "Shampoo (Moisturizing)", "Shampoo (Color-Safe)", "Shampoo (Clarifying)", "Shampoo (Dry)",
-    "Conditioner (Volume)", "Conditioner (Moisturizing)", "Conditioner (Color-Safe)", "Conditioner (Leave-In)", "Conditioner (Deep)",
-    "Hair Mask", "Hair Serum", "Hair Spray", "Styling Gel", "Styling Mousse", "Styling Cream", "Styling Wax",
-    "Dry Shampoo", "Heat Protectant Spray", "Texturizing Spray", "Curl Enhancer", "Frizz Control Serum",
+    # Hair Care Products
+    "Shampoo (Volume)", "Shampoo (Moisturizing)", "Shampoo (Color-Safe)", 
+    "Shampoo (Clarifying)", "Shampoo (Dry)",
+    "Conditioner (Volume)", "Conditioner (Moisturizing)", "Conditioner (Color-Safe)", 
+    "Conditioner (Leave-In)", "Conditioner (Deep)",
+    "Hair Mask", "Hair Serum", "Hair Spray", "Styling Gel", "Styling Mousse", 
+    "Styling Cream", "Styling Wax",
+    "Dry Shampoo", "Heat Protectant Spray", "Texturizing Spray", 
+    "Curl Enhancer", "Frizz Control Serum",
+    
+    # Skincare Products
     "Makeup Remover", "Face Wash", "Moisturizer", "Sunscreen", "Toner",
-    "Exfoliating Scrub", "Face Mask (Clay)", "Face Mask (Sheet)", "Eye Cream", "Lip Balm",
+    "Exfoliating Scrub", "Face Mask (Clay)", "Face Mask (Sheet)", 
+    "Eye Cream", "Lip Balm",
+    
+    # Body Care Products
     "Body Wash", "Body Lotion", "Body Scrub", "Hand Cream", "Cuticle Oil",
-    "Nail Polish (Red)", "Nail Polish (Nude)", "Nail Polish (Glitter)", "Top Coat", "Base Coat", "Nail Polish Remover",
+    
+    # Makeup Products
+    "Nail Polish (Red)", "Nail Polish (Nude)", "Nail Polish (Glitter)", 
+    "Top Coat", "Base Coat", "Nail Polish Remover",
     "Foundation", "Concealer", "Mascara", "Eyeliner", "Eyeshadow", "Lipstick"
-
 ]
 
+# Combine all items and generate IDs
 all_items = services + products
 num_items = len(all_items)
 item_ids = [f"Item{i:04d}" for i in range(1, num_items + 1)]
@@ -131,6 +155,15 @@ df['ItemCategory'] = df['ItemName'].apply(lambda x: 'Service' if x in services e
 
 # b) Item Subcategories
 def get_subcategory(item_name):
+    """
+    Determine the subcategory of an item based on its name.
+    
+    Args:
+        item_name (str): Name of the item
+        
+    Returns:
+        str: Subcategory of the item
+    """
     if "Haircut" in item_name:
         return "Haircut"
     elif "Coloring" in item_name or "Highlights" in item_name or "Balayage" in item_name:
@@ -160,6 +193,16 @@ df['ItemSubcategory'] = df['ItemName'].apply(get_subcategory)
 
 # c) Item Prices
 def get_price(item_category, item_subcategory):
+    """
+    Generate a realistic price for an item based on its category and subcategory.
+    
+    Args:
+        item_category (str): Main category (Service/Product)
+        item_subcategory (str): Specific subcategory
+        
+    Returns:
+        float: Generated price
+    """
     if item_category == 'Service':
         if item_subcategory == "Haircut":
             return round(random.uniform(20, 80), 2)

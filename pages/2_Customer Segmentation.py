@@ -1,5 +1,8 @@
 import streamlit as st
 import pandas as pd
+from customer_classification import CustomerClassifier
+from data_analysis import DataAnalyzer
+
 st.set_page_config(
     page_title="Customer Segmentation",
     layout="wide",
@@ -25,6 +28,7 @@ st.title("Customer Segmentation")
 st.subheader("K-means Clustering")
 line_break()
 line_break()
+
 st.write("Customer Classification:")
 st.write("""
          1. Use clustering (e.g., k-means) to group customers into segments based on their purchase behavior (e.g., frequency, total spending, product preferences).

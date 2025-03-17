@@ -35,14 +35,48 @@ col1, col2 = st.columns([2, 1])
 with col1:
     st.write("This is an app for the report of the take home assignment submission")
 
-with col2:
-    st.write("By:- Ashar Fatmi")
 
 line_break()
 line_break()
 st.write("Note:- This page is just the overview and the conclusion for the findings and analysis go to the specific task from the sidebar to view the detailed report")
+line_break()
+line_break()
 
+# Summary Section
+st.header("Summary of Findings")
 
+# Basic Analysis Summary
+st.subheader("1. Basic Analysis")
+st.markdown("""
+- Analyzed key business metrics and customer behavior patterns
+- Explored sales trends and customer purchase history
+- Identified patterns in transaction data and customer engagement
+""")
+
+line_break()
+# Customer Segmentation Summary
+st.subheader("2. Customer Segmentation")
+st.markdown("""
+- Implemented customer segmentation analysis to identify distinct customer groups
+- Analyzed customer behavior patterns and preferences
+- Created targeted marketing strategies based on customer segments
+""")
+
+line_break()
+# Product Recommendation Summary
+st.subheader("3. Product Recommendation")
+st.markdown("""
+- Developed product recommendation system based on customer purchase history
+- Analyzed product associations and buying patterns
+- Identified cross-selling and up-selling opportunities
+""")
+line_break()
+line_break()
+# Additional Notes
+st.info("""
+👈 Please navigate to individual pages in the sidebar for detailed analysis, 
+visualizations, and specific insights for each section.
+""")
 
 line_break()
 line_break()
