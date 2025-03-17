@@ -1,3 +1,4 @@
+import time
 import streamlit as st
 import pandas as pd
 from customer_classification import CustomerClassifier
@@ -69,6 +70,11 @@ def run_kmeans(max_clusters, n_clusters=None):
                         
                         # Display cluster visualizations for interpretation
                         st.subheader("Cluster Visualizations")
+                        
+                        # Generate visualizations first
+                        df_clustering = pd.read_csv("cluster_samples.csv")
+                        classifier.visualize_clusters(df_clustering)
+                        
                         try:
                             st.image("cluster_visualizations.png", caption="2D Cluster Visualizations", use_container_width=True)
                             st.image("cluster_visualizations_3d.png", caption="3D RFM Cluster Visualization", use_container_width=True)
@@ -107,6 +113,7 @@ if st.session_state.elbow_curve_generated:
                 max_value=max_clusters,
                 value=5
             )
+            
             run_clustering = st.form_submit_button("Run Clustering")
             if run_clustering:
                 run_kmeans(max_clusters, n_clusters)

@@ -276,10 +276,12 @@ class CustomerClassifier:
         import seaborn as sns
         
         # Set the style for all plots
-        plt.style.use('default')  # Use default style instead of seaborn
+        plt.style.use('default')
         
-        # Set color palette for better visibility
-        colors = plt.cm.viridis(np.linspace(0, 1, len(df_clustering['Cluster'].unique())))
+        # Get actual number of clusters from the data
+        n_clusters = len(df_clustering['Cluster'].unique())
+        # Generate colors based on actual number of clusters
+        colors = plt.cm.viridis(np.linspace(0, 1, n_clusters))
         
         # Define feature pairs to plot
         feature_pairs = [
@@ -300,7 +302,10 @@ class CustomerClassifier:
         # Get features used for clustering in the correct order
         clustering_features = ['Recency', 'Frequency', 'MonetaryValue', 'Age', 'AOV', 
                              'AvgTimeBetweenPurchases', 'LongestPurchaseStreak',
-                             'ServiceRatio', 'ProductRatio', 'Gender_F', 'Gender_M']
+                             'ServiceRatio', 'ProductRatio']
+        # Add gender columns if they exist
+        gender_columns = [col for col in df_clustering.columns if col.startswith('Gender_')]
+        clustering_features.extend(gender_columns)
         
         # Scale the features for cluster centers
         scaler = StandardScaler()
@@ -309,7 +314,7 @@ class CustomerClassifier:
         for idx, (feature1, feature2) in enumerate(feature_pairs, 1):
             ax = plt.subplot(n_rows, n_cols, idx)
             
-            # Create scatter plot
+            # Create scatter plot with actual number of clusters
             scatter = plt.scatter(
                 df_clustering[feature1],
                 df_clustering[feature2],
@@ -323,10 +328,9 @@ class CustomerClassifier:
             plt.ylabel(feature2, fontsize=10)
             plt.title(f'Cluster Distribution: {feature1} vs {feature2}', fontsize=12, pad=10)
             
-            # Add grid for better readability
             plt.grid(True, linestyle='--', alpha=0.7)
             
-            # Add legend
+            # Add legend with correct number of clusters
             legend1 = plt.legend(*scatter.legend_elements(),
                                title="Clusters",
                                loc="upper right",
@@ -343,6 +347,7 @@ class CustomerClassifier:
                 cluster_centers_scaled = self.kmeans.cluster_centers_
                 cluster_centers = scaler.inverse_transform(cluster_centers_scaled)
                 
+                # Plot all cluster centers
                 plt.scatter(
                     cluster_centers[:, feature1_idx],
                     cluster_centers[:, feature2_idx],
@@ -352,11 +357,19 @@ class CustomerClassifier:
                     linewidths=3,
                     label='Cluster Centers'
                 )
+                
+                # Add cluster number labels next to centers
+                for i, (x, y) in enumerate(zip(cluster_centers[:, feature1_idx], 
+                                             cluster_centers[:, feature2_idx])):
+                    plt.annotate(f'C{i}', (x, y), xytext=(5, 5), 
+                               textcoords='offset points', 
+                               fontsize=8, 
+                               fontweight='bold')
+                
                 plt.legend(loc='upper left', fontsize=8)
         
         plt.tight_layout()
         plt.savefig('cluster_visualizations.png', dpi=300, bbox_inches='tight')
-        # plt.show()
         
         # ==================================================================================
         # 3D VISUALIZATION: MonetaryValue vs AOV vs AvgTimeBetweenPurchases
